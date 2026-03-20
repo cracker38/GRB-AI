@@ -1,4 +1,5 @@
 import altair as alt
+import numpy as np
 import pandas as pd
 import streamlit as st
 
@@ -202,6 +203,10 @@ with tab_dashboard:
 
         view = filtered_gdf[filtered_gdf["indicator"].isin(selected_indicators)].copy()
         view["value"] = pd.to_numeric(view["value"], errors="coerce")
+        # Prevent Altair/vega from seeing non-finite values (can happen if upstream data contains `inf`).
+        view["value"] = view["value"].replace([np.inf, -np.inf], np.nan)
+        view["year"] = pd.to_numeric(view["year"], errors="coerce")
+        view["year"] = view["year"].replace([np.inf, -np.inf], np.nan)
         # In v1 we show the mean value for each year and gender.
         chart_df = (
             view.groupby(["year", "gender", "indicator"], dropna=False)["value"]
@@ -209,6 +214,10 @@ with tab_dashboard:
             .reset_index()
             .dropna(subset=["value"])
         )
+        chart_df = chart_df.replace([np.inf, -np.inf], np.nan)
+        chart_df = chart_df.dropna(subset=["value", "year"])
+        # Final guard: keep only finite points.
+        chart_df = chart_df[np.isfinite(chart_df["value"]) & np.isfinite(chart_df["year"])]
 
         for indicator in selected_indicators:
             one = chart_df[chart_df["indicator"] == indicator]
@@ -227,11 +236,14 @@ with tab_dashboard:
                     )
                     .properties(height=260)
                 )
-                st.altair_chart(c, use_container_width=True)
+                st.altair_chart(c, width="stretch")
 
         st.divider()
         st.markdown("Filtered data preview")
-        st.dataframe(filtered_gdf.sort_values(["year", "country", "region", "district"]).head(300), use_container_width=True)
+        st.dataframe(
+            filtered_gdf.sort_values(["year", "country", "region", "district"]).head(300),
+            width="stretch",
+        )
 
         st.divider()
         st.markdown("### Gender Gap Summary (Latest Year)")
@@ -246,7 +258,7 @@ with tab_dashboard:
                 gaps_df.sort_values("gap_points", ascending=False)[
                     ["indicator", "latest_year", "baseline_gender_value", "compare_gender_value", "gap_points", "gap_pct", "missing_rate"]
                 ],
-                use_container_width=True,
+                width="stretch",
             )
         else:
             st.info("No gap data available for the current filters.")
@@ -299,7 +311,7 @@ with tab_budget:
         st.info("No budget records match the current intersection filters.")
     else:
         budget_signals = compute_budget_signals(budget_filtered)
-        st.dataframe(budget_signals.head(20), use_container_width=True)
+        st.dataframe(budget_signals.head(20), width="stretch")
 
         st.divider()
         st.markdown("### Indicator-level Budget Responsiveness")
@@ -365,7 +377,7 @@ with tab_budget:
                         "gap_pct",
                     ]
                 ],
-                use_container_width=True,
+                width="stretch",
             )
         else:
             st.info("Select at least one indicator to view budget responsiveness.")
@@ -451,7 +463,7 @@ with tab_lab:
     )
 
     st.markdown("Available indicators")
-    st.dataframe(indicator_metadata, use_container_width=True)
+    st.dataframe(indicator_metadata, width="stretch")
 
     st.markdown("Budget program -> indicators mapping (used for GRB analysis)")
     st.json(program_to_indicators)
