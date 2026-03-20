@@ -1,0 +1,992 @@
+year,country,region,district,program_category,budget_amount,currency,grb_marker,gender_target,income_target,disability_target,source_file
+2020,Rwanda,Eastern,Bugesera,Education,1591557.7426954105,RWF,False,Both,All,All,sample_budget_2020.xlsx
+2020,Rwanda,Eastern,Bugesera,Education,545471.8981792686,RWF,True,Both,Low,All,sample_budget_2020.xlsx
+2020,Rwanda,Eastern,Bugesera,Health,1341299.6299461052,RWF,False,Both,All,All,sample_budget_2020.xlsx
+2020,Rwanda,Eastern,Bugesera,Health,819498.44161662,RWF,True,Both,All,All,sample_budget_2020.xlsx
+2020,Rwanda,Eastern,Bugesera,GBV_response,4280574.192784255,RWF,False,Both,All,All,sample_budget_2020.xlsx
+2020,Rwanda,Eastern,Bugesera,Economic_support,2484318.5953565137,RWF,True,Both,All,All,sample_budget_2020.xlsx
+2020,Rwanda,Eastern,Bugesera,Governance_participation,2031547.2726930007,RWF,True,Both,All,All,sample_budget_2020.xlsx
+2020,Rwanda,Eastern,Bugesera,Governance_participation,743212.2122553712,RWF,True,Women,Low,All,sample_budget_2020.xlsx
+2021,Rwanda,Eastern,Bugesera,Education,1732099.75744476,RWF,False,Both,All,All,sample_budget_2021.xlsx
+2021,Rwanda,Eastern,Bugesera,Education,391700.212567453,RWF,True,Women,Low,All,sample_budget_2021.xlsx
+2021,Rwanda,Eastern,Bugesera,Health,1740312.3127801118,RWF,False,Both,All,All,sample_budget_2021.xlsx
+2021,Rwanda,Eastern,Bugesera,Health,370574.60748367227,RWF,True,Women,Middle,All,sample_budget_2021.xlsx
+2021,Rwanda,Eastern,Bugesera,GBV_response,2233753.444420631,RWF,False,Both,All,All,sample_budget_2021.xlsx
+2021,Rwanda,Eastern,Bugesera,Economic_support,1715507.9310351042,RWF,False,Both,All,All,sample_budget_2021.xlsx
+2021,Rwanda,Eastern,Bugesera,Economic_support,572774.7882678063,RWF,True,Women,Middle,All,sample_budget_2021.xlsx
+2021,Rwanda,Eastern,Bugesera,Governance_participation,1195987.7574982005,RWF,False,Both,All,All,sample_budget_2021.xlsx
+2021,Rwanda,Eastern,Bugesera,Governance_participation,667928.1987535679,RWF,True,Both,Middle,All,sample_budget_2021.xlsx
+2022,Rwanda,Eastern,Bugesera,Education,3032492.3097318835,RWF,False,Both,All,All,sample_budget_2022.xlsx
+2022,Rwanda,Eastern,Bugesera,Education,885209.7054199998,RWF,True,Women,All,All,sample_budget_2022.xlsx
+2022,Rwanda,Eastern,Bugesera,Health,2374228.058181412,RWF,True,Both,All,All,sample_budget_2022.xlsx
+2022,Rwanda,Eastern,Bugesera,Health,552383.7612826467,RWF,True,Both,Middle,All,sample_budget_2022.xlsx
+2022,Rwanda,Eastern,Bugesera,GBV_response,2074632.683486834,RWF,False,Both,All,All,sample_budget_2022.xlsx
+2022,Rwanda,Eastern,Bugesera,Economic_support,2126675.803644411,RWF,False,Both,All,All,sample_budget_2022.xlsx
+2022,Rwanda,Eastern,Bugesera,Governance_participation,2740152.7193313288,RWF,True,Both,All,All,sample_budget_2022.xlsx
+2023,Rwanda,Eastern,Bugesera,Education,3498019.8742598915,RWF,False,Both,All,All,sample_budget_2023.xlsx
+2023,Rwanda,Eastern,Bugesera,Health,2602419.6282540597,RWF,False,Both,All,All,sample_budget_2023.xlsx
+2023,Rwanda,Eastern,Bugesera,GBV_response,2551681.645117428,RWF,False,Both,All,All,sample_budget_2023.xlsx
+2023,Rwanda,Eastern,Bugesera,Economic_support,3137751.6012374223,RWF,False,Both,All,All,sample_budget_2023.xlsx
+2023,Rwanda,Eastern,Bugesera,Economic_support,1402664.3665007143,RWF,True,Women,All,All,sample_budget_2023.xlsx
+2023,Rwanda,Eastern,Bugesera,Governance_participation,3396905.9932103786,RWF,False,Both,All,All,sample_budget_2023.xlsx
+2023,Rwanda,Eastern,Bugesera,Governance_participation,660781.003806333,RWF,True,Women,Middle,With disability,sample_budget_2023.xlsx
+2024,Rwanda,Eastern,Bugesera,Education,1517682.9151371233,RWF,False,Both,All,All,sample_budget_2024.xlsx
+2024,Rwanda,Eastern,Bugesera,Health,2242404.7481018654,RWF,True,Both,All,All,sample_budget_2024.xlsx
+2024,Rwanda,Eastern,Bugesera,Health,717044.3104423783,RWF,True,Both,Low,With disability,sample_budget_2024.xlsx
+2024,Rwanda,Eastern,Bugesera,GBV_response,2187736.736841427,RWF,False,Both,All,All,sample_budget_2024.xlsx
+2024,Rwanda,Eastern,Bugesera,GBV_response,856180.6099457178,RWF,True,Both,All,All,sample_budget_2024.xlsx
+2024,Rwanda,Eastern,Bugesera,Economic_support,1195612.8570797406,RWF,False,Both,All,All,sample_budget_2024.xlsx
+2024,Rwanda,Eastern,Bugesera,Economic_support,558242.9107720001,RWF,True,Women,Low,All,sample_budget_2024.xlsx
+2024,Rwanda,Eastern,Bugesera,Governance_participation,1326734.4593220083,RWF,False,Both,All,All,sample_budget_2024.xlsx
+2024,Rwanda,Eastern,Bugesera,Governance_participation,664562.6152664595,RWF,True,Women,Low,With disability,sample_budget_2024.xlsx
+2020,Rwanda,Eastern,Kayonza,Education,1007514.6021063445,RWF,False,Both,All,All,sample_budget_2020.xlsx
+2020,Rwanda,Eastern,Kayonza,Education,251060.5187843245,RWF,True,Women,Low,With disability,sample_budget_2020.xlsx
+2020,Rwanda,Eastern,Kayonza,Health,1581961.2900543686,RWF,False,Both,All,All,sample_budget_2020.xlsx
+2020,Rwanda,Eastern,Kayonza,GBV_response,1621717.4411160895,RWF,False,Both,All,All,sample_budget_2020.xlsx
+2020,Rwanda,Eastern,Kayonza,Economic_support,932191.5427909315,RWF,False,Both,All,All,sample_budget_2020.xlsx
+2020,Rwanda,Eastern,Kayonza,Economic_support,497269.45537066786,RWF,True,Women,Low,All,sample_budget_2020.xlsx
+2020,Rwanda,Eastern,Kayonza,Governance_participation,1668618.9511674233,RWF,False,Both,All,All,sample_budget_2020.xlsx
+2020,Rwanda,Eastern,Kayonza,Governance_participation,581872.9120339899,RWF,True,Women,Low,All,sample_budget_2020.xlsx
+2021,Rwanda,Eastern,Kayonza,Education,3296927.891721576,RWF,True,Both,All,All,sample_budget_2021.xlsx
+2021,Rwanda,Eastern,Kayonza,Education,1436241.3147942137,RWF,True,Women,Low,No disability,sample_budget_2021.xlsx
+2021,Rwanda,Eastern,Kayonza,Health,2218492.47430771,RWF,False,Both,All,All,sample_budget_2021.xlsx
+2021,Rwanda,Eastern,Kayonza,GBV_response,1489933.0983048524,RWF,True,Both,All,All,sample_budget_2021.xlsx
+2021,Rwanda,Eastern,Kayonza,Economic_support,2720146.921695922,RWF,True,Both,All,All,sample_budget_2021.xlsx
+2021,Rwanda,Eastern,Kayonza,Economic_support,684181.3038313759,RWF,True,Women,Low,No disability,sample_budget_2021.xlsx
+2021,Rwanda,Eastern,Kayonza,Governance_participation,2791372.757258413,RWF,False,Both,All,All,sample_budget_2021.xlsx
+2022,Rwanda,Eastern,Kayonza,Education,3267351.445913467,RWF,False,Both,All,All,sample_budget_2022.xlsx
+2022,Rwanda,Eastern,Kayonza,Education,1068309.0142558936,RWF,True,Women,All,With disability,sample_budget_2022.xlsx
+2022,Rwanda,Eastern,Kayonza,Health,1958638.2968956786,RWF,False,Both,All,All,sample_budget_2022.xlsx
+2022,Rwanda,Eastern,Kayonza,Health,796493.3180904583,RWF,True,Women,Low,All,sample_budget_2022.xlsx
+2022,Rwanda,Eastern,Kayonza,GBV_response,1721090.0243920833,RWF,False,Both,All,All,sample_budget_2022.xlsx
+2022,Rwanda,Eastern,Kayonza,GBV_response,360004.03506470524,RWF,True,Women,Low,All,sample_budget_2022.xlsx
+2022,Rwanda,Eastern,Kayonza,Economic_support,2353087.1869848827,RWF,False,Both,All,All,sample_budget_2022.xlsx
+2022,Rwanda,Eastern,Kayonza,Economic_support,772310.7913158103,RWF,True,Women,Low,All,sample_budget_2022.xlsx
+2022,Rwanda,Eastern,Kayonza,Governance_participation,1870974.014045751,RWF,False,Both,All,All,sample_budget_2022.xlsx
+2022,Rwanda,Eastern,Kayonza,Governance_participation,701445.2995366572,RWF,True,Women,Low,With disability,sample_budget_2022.xlsx
+2023,Rwanda,Eastern,Kayonza,Education,2184868.808610016,RWF,True,Both,All,All,sample_budget_2023.xlsx
+2023,Rwanda,Eastern,Kayonza,Health,2359799.6603445574,RWF,False,Both,All,All,sample_budget_2023.xlsx
+2023,Rwanda,Eastern,Kayonza,GBV_response,1140369.5832999893,RWF,False,Both,All,All,sample_budget_2023.xlsx
+2023,Rwanda,Eastern,Kayonza,GBV_response,680775.3604711744,RWF,True,Both,Low,All,sample_budget_2023.xlsx
+2023,Rwanda,Eastern,Kayonza,Economic_support,1295851.433638742,RWF,False,Both,All,All,sample_budget_2023.xlsx
+2023,Rwanda,Eastern,Kayonza,Governance_participation,947310.2728818225,RWF,False,Both,All,All,sample_budget_2023.xlsx
+2024,Rwanda,Eastern,Kayonza,Education,1402414.6087155712,RWF,True,Both,All,All,sample_budget_2024.xlsx
+2024,Rwanda,Eastern,Kayonza,Health,2116056.550005711,RWF,True,Both,All,All,sample_budget_2024.xlsx
+2024,Rwanda,Eastern,Kayonza,GBV_response,2089873.4153121097,RWF,False,Both,All,All,sample_budget_2024.xlsx
+2024,Rwanda,Eastern,Kayonza,Economic_support,1984941.2612417997,RWF,False,Both,All,All,sample_budget_2024.xlsx
+2024,Rwanda,Eastern,Kayonza,Economic_support,677625.4569889895,RWF,True,Women,Low,With disability,sample_budget_2024.xlsx
+2024,Rwanda,Eastern,Kayonza,Governance_participation,1971794.6492752384,RWF,False,Both,All,All,sample_budget_2024.xlsx
+2024,Rwanda,Eastern,Kayonza,Governance_participation,732215.4710022853,RWF,True,Women,Low,All,sample_budget_2024.xlsx
+2020,Rwanda,Western,Musanze,Education,975886.2350369355,RWF,True,Both,All,All,sample_budget_2020.xlsx
+2020,Rwanda,Western,Musanze,Health,1153225.2798345727,RWF,False,Both,All,All,sample_budget_2020.xlsx
+2020,Rwanda,Western,Musanze,GBV_response,1130970.445882306,RWF,False,Both,All,All,sample_budget_2020.xlsx
+2020,Rwanda,Western,Musanze,Economic_support,841670.8386538307,RWF,False,Both,All,All,sample_budget_2020.xlsx
+2020,Rwanda,Western,Musanze,Economic_support,463540.3693126247,RWF,True,Women,All,With disability,sample_budget_2020.xlsx
+2020,Rwanda,Western,Musanze,Governance_participation,1704404.4641682839,RWF,False,Both,All,All,sample_budget_2020.xlsx
+2021,Rwanda,Western,Musanze,Education,2179781.591610933,RWF,False,Both,All,All,sample_budget_2021.xlsx
+2021,Rwanda,Western,Musanze,Health,2843072.506159543,RWF,False,Both,All,All,sample_budget_2021.xlsx
+2021,Rwanda,Western,Musanze,Health,759560.8443565571,RWF,True,Women,Low,With disability,sample_budget_2021.xlsx
+2021,Rwanda,Western,Musanze,GBV_response,3232791.351659783,RWF,False,Both,All,All,sample_budget_2021.xlsx
+2021,Rwanda,Western,Musanze,GBV_response,661731.6906487469,RWF,True,Both,Middle,With disability,sample_budget_2021.xlsx
+2021,Rwanda,Western,Musanze,Economic_support,3425257.91264067,RWF,False,Both,All,All,sample_budget_2021.xlsx
+2021,Rwanda,Western,Musanze,Economic_support,722130.0776333815,RWF,True,Both,All,With disability,sample_budget_2021.xlsx
+2021,Rwanda,Western,Musanze,Governance_participation,2694238.8839638326,RWF,True,Both,All,All,sample_budget_2021.xlsx
+2022,Rwanda,Western,Musanze,Education,2920800.8834841126,RWF,False,Both,All,All,sample_budget_2022.xlsx
+2022,Rwanda,Western,Musanze,Education,706457.9172491502,RWF,True,Women,Middle,All,sample_budget_2022.xlsx
+2022,Rwanda,Western,Musanze,Health,2392575.0853847847,RWF,True,Both,All,All,sample_budget_2022.xlsx
+2022,Rwanda,Western,Musanze,Health,685817.0789259326,RWF,True,Women,Middle,With disability,sample_budget_2022.xlsx
+2022,Rwanda,Western,Musanze,GBV_response,2233527.9066859535,RWF,False,Both,All,All,sample_budget_2022.xlsx
+2022,Rwanda,Western,Musanze,GBV_response,757374.3109595033,RWF,True,Women,Low,With disability,sample_budget_2022.xlsx
+2022,Rwanda,Western,Musanze,Economic_support,1436549.058586808,RWF,False,Both,All,All,sample_budget_2022.xlsx
+2022,Rwanda,Western,Musanze,Economic_support,473121.13113908644,RWF,True,Both,Low,All,sample_budget_2022.xlsx
+2022,Rwanda,Western,Musanze,Governance_participation,1301528.199895134,RWF,False,Both,All,All,sample_budget_2022.xlsx
+2022,Rwanda,Western,Musanze,Governance_participation,286098.7818444993,RWF,True,Women,All,All,sample_budget_2022.xlsx
+2023,Rwanda,Western,Musanze,Education,3427874.390698325,RWF,False,Both,All,All,sample_budget_2023.xlsx
+2023,Rwanda,Western,Musanze,Education,713784.0291528793,RWF,True,Women,Middle,No disability,sample_budget_2023.xlsx
+2023,Rwanda,Western,Musanze,Health,2320024.8529727324,RWF,False,Both,All,All,sample_budget_2023.xlsx
+2023,Rwanda,Western,Musanze,GBV_response,3224614.819814006,RWF,False,Both,All,All,sample_budget_2023.xlsx
+2023,Rwanda,Western,Musanze,GBV_response,531807.1371899088,RWF,True,Both,Middle,All,sample_budget_2023.xlsx
+2023,Rwanda,Western,Musanze,Economic_support,1694157.6521875346,RWF,False,Both,All,All,sample_budget_2023.xlsx
+2023,Rwanda,Western,Musanze,Economic_support,372847.4068595658,RWF,True,Women,Middle,With disability,sample_budget_2023.xlsx
+2023,Rwanda,Western,Musanze,Governance_participation,1529551.8499417193,RWF,False,Both,All,All,sample_budget_2023.xlsx
+2023,Rwanda,Western,Musanze,Governance_participation,358413.0417080875,RWF,True,Women,All,All,sample_budget_2023.xlsx
+2024,Rwanda,Western,Musanze,Education,1540745.0877497487,RWF,False,Both,All,All,sample_budget_2024.xlsx
+2024,Rwanda,Western,Musanze,Education,646654.9304937288,RWF,True,Women,Middle,All,sample_budget_2024.xlsx
+2024,Rwanda,Western,Musanze,Health,2338260.444594516,RWF,False,Both,All,All,sample_budget_2024.xlsx
+2024,Rwanda,Western,Musanze,Health,893036.983848508,RWF,True,Women,Low,All,sample_budget_2024.xlsx
+2024,Rwanda,Western,Musanze,GBV_response,2426896.411382201,RWF,False,Both,All,All,sample_budget_2024.xlsx
+2024,Rwanda,Western,Musanze,Economic_support,2447599.229753688,RWF,True,Both,All,All,sample_budget_2024.xlsx
+2024,Rwanda,Western,Musanze,Economic_support,804572.7234578872,RWF,True,Women,All,All,sample_budget_2024.xlsx
+2024,Rwanda,Western,Musanze,Governance_participation,1424248.0187284881,RWF,False,Both,All,All,sample_budget_2024.xlsx
+2024,Rwanda,Western,Musanze,Governance_participation,673396.1778435397,RWF,True,Both,Low,With disability,sample_budget_2024.xlsx
+2020,Rwanda,Western,Rubavu,Education,1795093.5982844583,RWF,True,Both,All,All,sample_budget_2020.xlsx
+2020,Rwanda,Western,Rubavu,Education,350541.6415953084,RWF,True,Women,Middle,With disability,sample_budget_2020.xlsx
+2020,Rwanda,Western,Rubavu,Health,1785847.6275439023,RWF,False,Both,All,All,sample_budget_2020.xlsx
+2020,Rwanda,Western,Rubavu,GBV_response,2579182.4943466187,RWF,False,Both,All,All,sample_budget_2020.xlsx
+2020,Rwanda,Western,Rubavu,Economic_support,1652284.422858017,RWF,False,Both,All,All,sample_budget_2020.xlsx
+2020,Rwanda,Western,Rubavu,Governance_participation,1407804.2162632847,RWF,False,Both,All,All,sample_budget_2020.xlsx
+2020,Rwanda,Western,Rubavu,Governance_participation,708246.0356886766,RWF,True,Women,All,All,sample_budget_2020.xlsx
+2021,Rwanda,Western,Rubavu,Education,3280678.8774608714,RWF,False,Both,All,All,sample_budget_2021.xlsx
+2021,Rwanda,Western,Rubavu,Education,988931.4631276325,RWF,True,Both,Low,With disability,sample_budget_2021.xlsx
+2021,Rwanda,Western,Rubavu,Health,1270837.7997884168,RWF,False,Both,All,All,sample_budget_2021.xlsx
+2021,Rwanda,Western,Rubavu,Health,341819.2140193819,RWF,True,Both,Middle,All,sample_budget_2021.xlsx
+2021,Rwanda,Western,Rubavu,GBV_response,2115424.448882461,RWF,False,Both,All,All,sample_budget_2021.xlsx
+2021,Rwanda,Western,Rubavu,GBV_response,1187569.0110497677,RWF,True,Both,Low,All,sample_budget_2021.xlsx
+2021,Rwanda,Western,Rubavu,Economic_support,2415879.6289738324,RWF,False,Both,All,All,sample_budget_2021.xlsx
+2021,Rwanda,Western,Rubavu,Governance_participation,2237645.9430774893,RWF,False,Both,All,All,sample_budget_2021.xlsx
+2021,Rwanda,Western,Rubavu,Governance_participation,729428.5374746287,RWF,True,Women,Low,All,sample_budget_2021.xlsx
+2022,Rwanda,Western,Rubavu,Education,1662316.3545824662,RWF,False,Both,All,All,sample_budget_2022.xlsx
+2022,Rwanda,Western,Rubavu,Education,416670.12721318536,RWF,True,Women,Low,All,sample_budget_2022.xlsx
+2022,Rwanda,Western,Rubavu,Health,1623483.1671953823,RWF,True,Both,All,All,sample_budget_2022.xlsx
+2022,Rwanda,Western,Rubavu,Health,551481.2344365919,RWF,True,Women,Low,All,sample_budget_2022.xlsx
+2022,Rwanda,Western,Rubavu,GBV_response,940135.456672488,RWF,False,Both,All,All,sample_budget_2022.xlsx
+2022,Rwanda,Western,Rubavu,Economic_support,1722571.3663704079,RWF,False,Both,All,All,sample_budget_2022.xlsx
+2022,Rwanda,Western,Rubavu,Governance_participation,1483439.2778058767,RWF,False,Both,All,All,sample_budget_2022.xlsx
+2022,Rwanda,Western,Rubavu,Governance_participation,618678.7844776791,RWF,True,Both,Low,With disability,sample_budget_2022.xlsx
+2023,Rwanda,Western,Rubavu,Education,3629028.702568596,RWF,False,Both,All,All,sample_budget_2023.xlsx
+2023,Rwanda,Western,Rubavu,Health,1647776.3665638121,RWF,False,Both,All,All,sample_budget_2023.xlsx
+2023,Rwanda,Western,Rubavu,Health,688978.8377089842,RWF,True,Women,Middle,With disability,sample_budget_2023.xlsx
+2023,Rwanda,Western,Rubavu,GBV_response,2846205.976252717,RWF,False,Both,All,All,sample_budget_2023.xlsx
+2023,Rwanda,Western,Rubavu,GBV_response,1061792.5173283818,RWF,True,Women,Middle,With disability,sample_budget_2023.xlsx
+2023,Rwanda,Western,Rubavu,Economic_support,3055029.559786337,RWF,True,Both,All,All,sample_budget_2023.xlsx
+2023,Rwanda,Western,Rubavu,Economic_support,1047788.126758844,RWF,True,Women,Low,With disability,sample_budget_2023.xlsx
+2023,Rwanda,Western,Rubavu,Governance_participation,2039519.6558777965,RWF,False,Both,All,All,sample_budget_2023.xlsx
+2023,Rwanda,Western,Rubavu,Governance_participation,817561.3882705921,RWF,True,Women,Low,No disability,sample_budget_2023.xlsx
+2024,Rwanda,Western,Rubavu,Education,3941289.370894499,RWF,False,Both,All,All,sample_budget_2024.xlsx
+2024,Rwanda,Western,Rubavu,Health,3883259.8830278763,RWF,False,Both,All,All,sample_budget_2024.xlsx
+2024,Rwanda,Western,Rubavu,Health,1698632.793377963,RWF,True,Women,Low,All,sample_budget_2024.xlsx
+2024,Rwanda,Western,Rubavu,GBV_response,2259242.1993840127,RWF,False,Both,All,All,sample_budget_2024.xlsx
+2024,Rwanda,Western,Rubavu,GBV_response,703100.7917950547,RWF,True,Women,Low,All,sample_budget_2024.xlsx
+2024,Rwanda,Western,Rubavu,Economic_support,2467441.5515039326,RWF,True,Both,All,All,sample_budget_2024.xlsx
+2024,Rwanda,Western,Rubavu,Governance_participation,1953910.054633464,RWF,False,Both,All,All,sample_budget_2024.xlsx
+2020,Rwanda,Kigali,Gasabo,Education,1015778.3451795145,RWF,False,Both,All,All,sample_budget_2020.xlsx
+2020,Rwanda,Kigali,Gasabo,Education,365667.2938717906,RWF,True,Women,Low,All,sample_budget_2020.xlsx
+2020,Rwanda,Kigali,Gasabo,Health,2246071.757644779,RWF,False,Both,All,All,sample_budget_2020.xlsx
+2020,Rwanda,Kigali,Gasabo,Health,854173.4653451516,RWF,True,Women,Low,All,sample_budget_2020.xlsx
+2020,Rwanda,Kigali,Gasabo,GBV_response,1675323.3019327994,RWF,False,Both,All,All,sample_budget_2020.xlsx
+2020,Rwanda,Kigali,Gasabo,GBV_response,498782.11853283556,RWF,True,Women,All,All,sample_budget_2020.xlsx
+2020,Rwanda,Kigali,Gasabo,Economic_support,1457546.764604302,RWF,False,Both,All,All,sample_budget_2020.xlsx
+2020,Rwanda,Kigali,Gasabo,Governance_participation,2168277.853178845,RWF,False,Both,All,All,sample_budget_2020.xlsx
+2020,Rwanda,Kigali,Gasabo,Governance_participation,747075.5254036527,RWF,True,Women,All,All,sample_budget_2020.xlsx
+2021,Rwanda,Kigali,Gasabo,Education,1908077.111772899,RWF,False,Both,All,All,sample_budget_2021.xlsx
+2021,Rwanda,Kigali,Gasabo,Education,525239.8619051552,RWF,True,Women,Middle,All,sample_budget_2021.xlsx
+2021,Rwanda,Kigali,Gasabo,Health,2087968.8927728625,RWF,False,Both,All,All,sample_budget_2021.xlsx
+2021,Rwanda,Kigali,Gasabo,Health,1018126.2152447175,RWF,True,Both,All,With disability,sample_budget_2021.xlsx
+2021,Rwanda,Kigali,Gasabo,GBV_response,1736714.3867768582,RWF,False,Both,All,All,sample_budget_2021.xlsx
+2021,Rwanda,Kigali,Gasabo,Economic_support,1617118.6170378146,RWF,False,Both,All,All,sample_budget_2021.xlsx
+2021,Rwanda,Kigali,Gasabo,Economic_support,302303.7915244905,RWF,True,Women,Middle,All,sample_budget_2021.xlsx
+2021,Rwanda,Kigali,Gasabo,Governance_participation,1694173.2508611495,RWF,False,Both,All,All,sample_budget_2021.xlsx
+2021,Rwanda,Kigali,Gasabo,Governance_participation,267181.2043289904,RWF,True,Both,Low,All,sample_budget_2021.xlsx
+2022,Rwanda,Kigali,Gasabo,Education,3396912.363107559,RWF,True,Both,All,All,sample_budget_2022.xlsx
+2022,Rwanda,Kigali,Gasabo,Health,3304387.532762899,RWF,False,Both,All,All,sample_budget_2022.xlsx
+2022,Rwanda,Kigali,Gasabo,Health,738616.0152417676,RWF,True,Women,Middle,All,sample_budget_2022.xlsx
+2022,Rwanda,Kigali,Gasabo,GBV_response,2936873.3467847407,RWF,False,Both,All,All,sample_budget_2022.xlsx
+2022,Rwanda,Kigali,Gasabo,GBV_response,706275.7456814592,RWF,True,Women,All,All,sample_budget_2022.xlsx
+2022,Rwanda,Kigali,Gasabo,Economic_support,4376139.29963598,RWF,False,Both,All,All,sample_budget_2022.xlsx
+2022,Rwanda,Kigali,Gasabo,Governance_participation,2452850.822726117,RWF,False,Both,All,All,sample_budget_2022.xlsx
+2022,Rwanda,Kigali,Gasabo,Governance_participation,712207.3225364413,RWF,True,Women,Low,All,sample_budget_2022.xlsx
+2023,Rwanda,Kigali,Gasabo,Education,2773371.6289557847,RWF,True,Both,All,All,sample_budget_2023.xlsx
+2023,Rwanda,Kigali,Gasabo,Education,537111.6969794086,RWF,True,Women,Middle,All,sample_budget_2023.xlsx
+2023,Rwanda,Kigali,Gasabo,Health,1185499.9791526839,RWF,True,Both,All,All,sample_budget_2023.xlsx
+2023,Rwanda,Kigali,Gasabo,Health,304628.4134780148,RWF,True,Women,Low,No disability,sample_budget_2023.xlsx
+2023,Rwanda,Kigali,Gasabo,GBV_response,1722736.6938326962,RWF,False,Both,All,All,sample_budget_2023.xlsx
+2023,Rwanda,Kigali,Gasabo,GBV_response,453751.90595486807,RWF,True,Both,Low,With disability,sample_budget_2023.xlsx
+2023,Rwanda,Kigali,Gasabo,Economic_support,2596269.5987555464,RWF,False,Both,All,All,sample_budget_2023.xlsx
+2023,Rwanda,Kigali,Gasabo,Economic_support,842365.8449313005,RWF,True,Women,Low,All,sample_budget_2023.xlsx
+2023,Rwanda,Kigali,Gasabo,Governance_participation,1528038.0236128562,RWF,True,Both,All,All,sample_budget_2023.xlsx
+2023,Rwanda,Kigali,Gasabo,Governance_participation,376311.9152071753,RWF,True,Both,Low,With disability,sample_budget_2023.xlsx
+2024,Rwanda,Kigali,Gasabo,Education,1742034.4346158134,RWF,False,Both,All,All,sample_budget_2024.xlsx
+2024,Rwanda,Kigali,Gasabo,Health,2076921.1705335516,RWF,False,Both,All,All,sample_budget_2024.xlsx
+2024,Rwanda,Kigali,Gasabo,Health,541599.9513898011,RWF,True,Women,Low,All,sample_budget_2024.xlsx
+2024,Rwanda,Kigali,Gasabo,GBV_response,2443723.741032992,RWF,False,Both,All,All,sample_budget_2024.xlsx
+2024,Rwanda,Kigali,Gasabo,GBV_response,395411.353123001,RWF,True,Both,Middle,All,sample_budget_2024.xlsx
+2024,Rwanda,Kigali,Gasabo,Economic_support,2194881.687021372,RWF,True,Both,All,All,sample_budget_2024.xlsx
+2024,Rwanda,Kigali,Gasabo,Economic_support,894201.9402568693,RWF,True,Women,All,With disability,sample_budget_2024.xlsx
+2024,Rwanda,Kigali,Gasabo,Governance_participation,1234681.2362713756,RWF,False,Both,All,All,sample_budget_2024.xlsx
+2024,Rwanda,Kigali,Gasabo,Governance_participation,667452.7652692528,RWF,True,Women,Middle,All,sample_budget_2024.xlsx
+2020,Rwanda,Kigali,Kicukiro,Education,2493791.110642898,RWF,True,Both,All,All,sample_budget_2020.xlsx
+2020,Rwanda,Kigali,Kicukiro,Education,680067.4178836262,RWF,True,Women,Middle,With disability,sample_budget_2020.xlsx
+2020,Rwanda,Kigali,Kicukiro,Health,2646379.9457389503,RWF,True,Both,All,All,sample_budget_2020.xlsx
+2020,Rwanda,Kigali,Kicukiro,Health,1052608.4894464035,RWF,True,Women,Middle,With disability,sample_budget_2020.xlsx
+2020,Rwanda,Kigali,Kicukiro,GBV_response,1953884.1167911326,RWF,False,Both,All,All,sample_budget_2020.xlsx
+2020,Rwanda,Kigali,Kicukiro,Economic_support,2608138.4983951044,RWF,False,Both,All,All,sample_budget_2020.xlsx
+2020,Rwanda,Kigali,Kicukiro,Economic_support,1254989.5781746975,RWF,True,Women,All,No disability,sample_budget_2020.xlsx
+2020,Rwanda,Kigali,Kicukiro,Governance_participation,4388320.427270016,RWF,False,Both,All,All,sample_budget_2020.xlsx
+2021,Rwanda,Kigali,Kicukiro,Education,2067034.72987632,RWF,False,Both,All,All,sample_budget_2021.xlsx
+2021,Rwanda,Kigali,Kicukiro,Health,1330441.552509338,RWF,False,Both,All,All,sample_budget_2021.xlsx
+2021,Rwanda,Kigali,Kicukiro,Health,600280.808905119,RWF,True,Women,All,All,sample_budget_2021.xlsx
+2021,Rwanda,Kigali,Kicukiro,GBV_response,1551208.3999622213,RWF,False,Both,All,All,sample_budget_2021.xlsx
+2021,Rwanda,Kigali,Kicukiro,GBV_response,497426.20989246416,RWF,True,Both,Low,With disability,sample_budget_2021.xlsx
+2021,Rwanda,Kigali,Kicukiro,Economic_support,2885135.5765864328,RWF,False,Both,All,All,sample_budget_2021.xlsx
+2021,Rwanda,Kigali,Kicukiro,Governance_participation,1789193.9204176534,RWF,True,Both,All,All,sample_budget_2021.xlsx
+2021,Rwanda,Kigali,Kicukiro,Governance_participation,770305.4641160804,RWF,True,Women,Middle,With disability,sample_budget_2021.xlsx
+2022,Rwanda,Kigali,Kicukiro,Education,1820351.342708777,RWF,False,Both,All,All,sample_budget_2022.xlsx
+2022,Rwanda,Kigali,Kicukiro,Education,965689.1108710979,RWF,True,Women,Low,With disability,sample_budget_2022.xlsx
+2022,Rwanda,Kigali,Kicukiro,Health,1177246.6670677639,RWF,False,Both,All,All,sample_budget_2022.xlsx
+2022,Rwanda,Kigali,Kicukiro,GBV_response,2301863.2579146377,RWF,False,Both,All,All,sample_budget_2022.xlsx
+2022,Rwanda,Kigali,Kicukiro,Economic_support,1932094.9791115865,RWF,False,Both,All,All,sample_budget_2022.xlsx
+2022,Rwanda,Kigali,Kicukiro,Economic_support,654818.8933496145,RWF,True,Both,Low,All,sample_budget_2022.xlsx
+2022,Rwanda,Kigali,Kicukiro,Governance_participation,2039308.815317294,RWF,False,Both,All,All,sample_budget_2022.xlsx
+2022,Rwanda,Kigali,Kicukiro,Governance_participation,795599.2567993413,RWF,True,Women,Middle,With disability,sample_budget_2022.xlsx
+2023,Rwanda,Kigali,Kicukiro,Education,1740944.6712875809,RWF,False,Both,All,All,sample_budget_2023.xlsx
+2023,Rwanda,Kigali,Kicukiro,Education,368170.9166486358,RWF,True,Women,Low,All,sample_budget_2023.xlsx
+2023,Rwanda,Kigali,Kicukiro,Health,2837593.8523751493,RWF,False,Both,All,All,sample_budget_2023.xlsx
+2023,Rwanda,Kigali,Kicukiro,GBV_response,2823647.445834102,RWF,False,Both,All,All,sample_budget_2023.xlsx
+2023,Rwanda,Kigali,Kicukiro,GBV_response,917958.4193833867,RWF,True,Women,All,All,sample_budget_2023.xlsx
+2023,Rwanda,Kigali,Kicukiro,Economic_support,2793986.551903982,RWF,False,Both,All,All,sample_budget_2023.xlsx
+2023,Rwanda,Kigali,Kicukiro,Economic_support,1355283.6183693432,RWF,True,Women,All,All,sample_budget_2023.xlsx
+2023,Rwanda,Kigali,Kicukiro,Governance_participation,1703958.4251560527,RWF,False,Both,All,All,sample_budget_2023.xlsx
+2023,Rwanda,Kigali,Kicukiro,Governance_participation,550945.1996477845,RWF,True,Women,Middle,With disability,sample_budget_2023.xlsx
+2024,Rwanda,Kigali,Kicukiro,Education,1494137.4116281667,RWF,False,Both,All,All,sample_budget_2024.xlsx
+2024,Rwanda,Kigali,Kicukiro,Education,344934.1719063818,RWF,True,Women,Middle,With disability,sample_budget_2024.xlsx
+2024,Rwanda,Kigali,Kicukiro,Health,3181000.09985557,RWF,False,Both,All,All,sample_budget_2024.xlsx
+2024,Rwanda,Kigali,Kicukiro,GBV_response,2062142.2382785736,RWF,False,Both,All,All,sample_budget_2024.xlsx
+2024,Rwanda,Kigali,Kicukiro,Economic_support,2220141.491484324,RWF,True,Both,All,All,sample_budget_2024.xlsx
+2024,Rwanda,Kigali,Kicukiro,Governance_participation,1808340.4206405748,RWF,False,Both,All,All,sample_budget_2024.xlsx
+2024,Rwanda,Kigali,Kicukiro,Governance_participation,413838.3942503123,RWF,True,Women,All,All,sample_budget_2024.xlsx
+2020,Tunisia,Tunis,Ariana,Education,2430090.817047564,TND,False,Both,All,All,sample_budget_2020.xlsx
+2020,Tunisia,Tunis,Ariana,Education,447863.04397384735,TND,True,Women,All,All,sample_budget_2020.xlsx
+2020,Tunisia,Tunis,Ariana,Health,1812423.0512132533,TND,False,Both,All,All,sample_budget_2020.xlsx
+2020,Tunisia,Tunis,Ariana,GBV_response,1565294.2438580506,TND,False,Both,All,All,sample_budget_2020.xlsx
+2020,Tunisia,Tunis,Ariana,GBV_response,428960.5161289235,TND,True,Both,Middle,With disability,sample_budget_2020.xlsx
+2020,Tunisia,Tunis,Ariana,Economic_support,2681174.518878404,TND,False,Both,All,All,sample_budget_2020.xlsx
+2020,Tunisia,Tunis,Ariana,Governance_participation,1923613.8328359548,TND,True,Both,All,All,sample_budget_2020.xlsx
+2020,Tunisia,Tunis,Ariana,Governance_participation,843305.3765940004,TND,True,Both,Low,With disability,sample_budget_2020.xlsx
+2021,Tunisia,Tunis,Ariana,Education,3243219.1667312933,TND,False,Both,All,All,sample_budget_2021.xlsx
+2021,Tunisia,Tunis,Ariana,Education,615246.5216393073,TND,True,Both,Middle,All,sample_budget_2021.xlsx
+2021,Tunisia,Tunis,Ariana,Health,2424091.6877348656,TND,True,Both,All,All,sample_budget_2021.xlsx
+2021,Tunisia,Tunis,Ariana,GBV_response,2713661.298987268,TND,True,Both,All,All,sample_budget_2021.xlsx
+2021,Tunisia,Tunis,Ariana,GBV_response,787699.4302454601,TND,True,Women,Low,With disability,sample_budget_2021.xlsx
+2021,Tunisia,Tunis,Ariana,Economic_support,3585250.5434878976,TND,False,Both,All,All,sample_budget_2021.xlsx
+2021,Tunisia,Tunis,Ariana,Governance_participation,3111355.5884765266,TND,False,Both,All,All,sample_budget_2021.xlsx
+2021,Tunisia,Tunis,Ariana,Governance_participation,588657.205116818,TND,True,Women,Low,All,sample_budget_2021.xlsx
+2022,Tunisia,Tunis,Ariana,Education,3887551.2744513396,TND,False,Both,All,All,sample_budget_2022.xlsx
+2022,Tunisia,Tunis,Ariana,Education,746129.0075416039,TND,True,Women,Low,All,sample_budget_2022.xlsx
+2022,Tunisia,Tunis,Ariana,Health,3287625.7534720753,TND,False,Both,All,All,sample_budget_2022.xlsx
+2022,Tunisia,Tunis,Ariana,Health,1281932.2219901746,TND,True,Women,Low,No disability,sample_budget_2022.xlsx
+2022,Tunisia,Tunis,Ariana,GBV_response,2521986.702964134,TND,False,Both,All,All,sample_budget_2022.xlsx
+2022,Tunisia,Tunis,Ariana,GBV_response,1436770.7180026332,TND,True,Both,Middle,No disability,sample_budget_2022.xlsx
+2022,Tunisia,Tunis,Ariana,Economic_support,1173967.2476114475,TND,False,Both,All,All,sample_budget_2022.xlsx
+2022,Tunisia,Tunis,Ariana,Governance_participation,1400180.3138377608,TND,False,Both,All,All,sample_budget_2022.xlsx
+2022,Tunisia,Tunis,Ariana,Governance_participation,765050.656625876,TND,True,Women,Low,All,sample_budget_2022.xlsx
+2023,Tunisia,Tunis,Ariana,Education,3317321.3242365858,TND,False,Both,All,All,sample_budget_2023.xlsx
+2023,Tunisia,Tunis,Ariana,Health,2602606.280296362,TND,True,Both,All,All,sample_budget_2023.xlsx
+2023,Tunisia,Tunis,Ariana,Health,1086890.7728583792,TND,True,Both,Low,All,sample_budget_2023.xlsx
+2023,Tunisia,Tunis,Ariana,GBV_response,2508646.4745242293,TND,False,Both,All,All,sample_budget_2023.xlsx
+2023,Tunisia,Tunis,Ariana,Economic_support,2418603.3860373637,TND,True,Both,All,All,sample_budget_2023.xlsx
+2023,Tunisia,Tunis,Ariana,Economic_support,821974.2985813286,TND,True,Both,Middle,All,sample_budget_2023.xlsx
+2023,Tunisia,Tunis,Ariana,Governance_participation,4198441.901110166,TND,False,Both,All,All,sample_budget_2023.xlsx
+2024,Tunisia,Tunis,Ariana,Education,1108892.8328711912,TND,False,Both,All,All,sample_budget_2024.xlsx
+2024,Tunisia,Tunis,Ariana,Health,1478300.3724068291,TND,False,Both,All,All,sample_budget_2024.xlsx
+2024,Tunisia,Tunis,Ariana,Health,269283.0464923628,TND,True,Women,Low,All,sample_budget_2024.xlsx
+2024,Tunisia,Tunis,Ariana,GBV_response,786456.0904714535,TND,True,Both,All,All,sample_budget_2024.xlsx
+2024,Tunisia,Tunis,Ariana,Economic_support,866172.8411632228,TND,True,Both,All,All,sample_budget_2024.xlsx
+2024,Tunisia,Tunis,Ariana,Economic_support,313901.4894310883,TND,True,Both,Low,With disability,sample_budget_2024.xlsx
+2024,Tunisia,Tunis,Ariana,Governance_participation,1714955.1847759718,TND,False,Both,All,All,sample_budget_2024.xlsx
+2024,Tunisia,Tunis,Ariana,Governance_participation,315703.73557104514,TND,True,Both,Low,With disability,sample_budget_2024.xlsx
+2020,Tunisia,Tunis,La Marsa,Education,2278277.392285682,TND,False,Both,All,All,sample_budget_2020.xlsx
+2020,Tunisia,Tunis,La Marsa,Education,368324.2954585789,TND,True,Women,Middle,All,sample_budget_2020.xlsx
+2020,Tunisia,Tunis,La Marsa,Health,2666613.7862827666,TND,True,Both,All,All,sample_budget_2020.xlsx
+2020,Tunisia,Tunis,La Marsa,GBV_response,3414426.3832649835,TND,False,Both,All,All,sample_budget_2020.xlsx
+2020,Tunisia,Tunis,La Marsa,GBV_response,666846.108836474,TND,True,Both,Low,All,sample_budget_2020.xlsx
+2020,Tunisia,Tunis,La Marsa,Economic_support,1646200.577295934,TND,False,Both,All,All,sample_budget_2020.xlsx
+2020,Tunisia,Tunis,La Marsa,Economic_support,674079.6108200807,TND,True,Women,Middle,With disability,sample_budget_2020.xlsx
+2020,Tunisia,Tunis,La Marsa,Governance_participation,2701341.4386390187,TND,False,Both,All,All,sample_budget_2020.xlsx
+2021,Tunisia,Tunis,La Marsa,Education,1206690.7772817083,TND,True,Both,All,All,sample_budget_2021.xlsx
+2021,Tunisia,Tunis,La Marsa,Health,3696568.816090704,TND,False,Both,All,All,sample_budget_2021.xlsx
+2021,Tunisia,Tunis,La Marsa,Health,797612.6041703286,TND,True,Women,Low,All,sample_budget_2021.xlsx
+2021,Tunisia,Tunis,La Marsa,GBV_response,1619741.7353309167,TND,False,Both,All,All,sample_budget_2021.xlsx
+2021,Tunisia,Tunis,La Marsa,GBV_response,335819.1234756592,TND,True,Women,Middle,All,sample_budget_2021.xlsx
+2021,Tunisia,Tunis,La Marsa,Economic_support,3777414.6220547245,TND,False,Both,All,All,sample_budget_2021.xlsx
+2021,Tunisia,Tunis,La Marsa,Governance_participation,2526137.5668023396,TND,False,Both,All,All,sample_budget_2021.xlsx
+2022,Tunisia,Tunis,La Marsa,Education,1224182.5203579867,TND,True,Both,All,All,sample_budget_2022.xlsx
+2022,Tunisia,Tunis,La Marsa,Education,589357.5503633757,TND,True,Women,Middle,All,sample_budget_2022.xlsx
+2022,Tunisia,Tunis,La Marsa,Health,1560948.5338951987,TND,False,Both,All,All,sample_budget_2022.xlsx
+2022,Tunisia,Tunis,La Marsa,GBV_response,1351968.6524777245,TND,False,Both,All,All,sample_budget_2022.xlsx
+2022,Tunisia,Tunis,La Marsa,Economic_support,1294396.6286359075,TND,False,Both,All,All,sample_budget_2022.xlsx
+2022,Tunisia,Tunis,La Marsa,Economic_support,602807.4190480496,TND,True,Both,Middle,With disability,sample_budget_2022.xlsx
+2022,Tunisia,Tunis,La Marsa,Governance_participation,698110.5506106279,TND,False,Both,All,All,sample_budget_2022.xlsx
+2022,Tunisia,Tunis,La Marsa,Governance_participation,206953.02631874266,TND,True,Women,Low,All,sample_budget_2022.xlsx
+2023,Tunisia,Tunis,La Marsa,Education,2055943.924954709,TND,False,Both,All,All,sample_budget_2023.xlsx
+2023,Tunisia,Tunis,La Marsa,Education,481313.88981688354,TND,True,Women,Low,All,sample_budget_2023.xlsx
+2023,Tunisia,Tunis,La Marsa,Health,1741059.4790003395,TND,True,Both,All,All,sample_budget_2023.xlsx
+2023,Tunisia,Tunis,La Marsa,Health,818874.2204795277,TND,True,Both,All,With disability,sample_budget_2023.xlsx
+2023,Tunisia,Tunis,La Marsa,GBV_response,1249131.5125764436,TND,True,Both,All,All,sample_budget_2023.xlsx
+2023,Tunisia,Tunis,La Marsa,Economic_support,857389.1180807421,TND,False,Both,All,All,sample_budget_2023.xlsx
+2023,Tunisia,Tunis,La Marsa,Economic_support,209447.5157658296,TND,True,Women,Low,With disability,sample_budget_2023.xlsx
+2023,Tunisia,Tunis,La Marsa,Governance_participation,1452940.1350399705,TND,True,Both,All,All,sample_budget_2023.xlsx
+2023,Tunisia,Tunis,La Marsa,Governance_participation,296717.22578167624,TND,True,Both,Low,All,sample_budget_2023.xlsx
+2024,Tunisia,Tunis,La Marsa,Education,1923015.828713578,TND,False,Both,All,All,sample_budget_2024.xlsx
+2024,Tunisia,Tunis,La Marsa,Education,395250.50805243815,TND,True,Women,Middle,All,sample_budget_2024.xlsx
+2024,Tunisia,Tunis,La Marsa,Health,2671111.713129403,TND,True,Both,All,All,sample_budget_2024.xlsx
+2024,Tunisia,Tunis,La Marsa,GBV_response,1799012.8307174968,TND,False,Both,All,All,sample_budget_2024.xlsx
+2024,Tunisia,Tunis,La Marsa,Economic_support,1881137.2606919466,TND,False,Both,All,All,sample_budget_2024.xlsx
+2024,Tunisia,Tunis,La Marsa,Economic_support,848331.9782075789,TND,True,Women,Low,All,sample_budget_2024.xlsx
+2024,Tunisia,Tunis,La Marsa,Governance_participation,2767056.438980039,TND,False,Both,All,All,sample_budget_2024.xlsx
+2024,Tunisia,Tunis,La Marsa,Governance_participation,515862.6090749499,TND,True,Women,Middle,With disability,sample_budget_2024.xlsx
+2020,Tunisia,Sousse,Sousse_North,Education,2113406.7946593566,TND,True,Both,All,All,sample_budget_2020.xlsx
+2020,Tunisia,Sousse,Sousse_North,Health,2570079.6251811087,TND,False,Both,All,All,sample_budget_2020.xlsx
+2020,Tunisia,Sousse,Sousse_North,Health,902711.1307122435,TND,True,Both,Low,No disability,sample_budget_2020.xlsx
+2020,Tunisia,Sousse,Sousse_North,GBV_response,3514047.967754803,TND,False,Both,All,All,sample_budget_2020.xlsx
+2020,Tunisia,Sousse,Sousse_North,GBV_response,851768.086580567,TND,True,Women,Middle,All,sample_budget_2020.xlsx
+2020,Tunisia,Sousse,Sousse_North,Economic_support,1786833.1958456729,TND,True,Both,All,All,sample_budget_2020.xlsx
+2020,Tunisia,Sousse,Sousse_North,Economic_support,586370.4171367675,TND,True,Women,Low,All,sample_budget_2020.xlsx
+2020,Tunisia,Sousse,Sousse_North,Governance_participation,3366147.9879038082,TND,False,Both,All,All,sample_budget_2020.xlsx
+2020,Tunisia,Sousse,Sousse_North,Governance_participation,1441804.8972519164,TND,True,Women,Middle,With disability,sample_budget_2020.xlsx
+2021,Tunisia,Sousse,Sousse_North,Education,2538764.5287626907,TND,False,Both,All,All,sample_budget_2021.xlsx
+2021,Tunisia,Sousse,Sousse_North,Education,502525.40879433695,TND,True,Women,Low,All,sample_budget_2021.xlsx
+2021,Tunisia,Sousse,Sousse_North,Health,2917430.3765285253,TND,True,Both,All,All,sample_budget_2021.xlsx
+2021,Tunisia,Sousse,Sousse_North,Health,948170.5050666276,TND,True,Both,Low,With disability,sample_budget_2021.xlsx
+2021,Tunisia,Sousse,Sousse_North,GBV_response,3387536.164579202,TND,False,Both,All,All,sample_budget_2021.xlsx
+2021,Tunisia,Sousse,Sousse_North,Economic_support,3402136.0645050323,TND,False,Both,All,All,sample_budget_2021.xlsx
+2021,Tunisia,Sousse,Sousse_North,Governance_participation,1858430.959858009,TND,False,Both,All,All,sample_budget_2021.xlsx
+2022,Tunisia,Sousse,Sousse_North,Education,2185074.5668983227,TND,False,Both,All,All,sample_budget_2022.xlsx
+2022,Tunisia,Sousse,Sousse_North,Education,1072450.831467307,TND,True,Both,All,All,sample_budget_2022.xlsx
+2022,Tunisia,Sousse,Sousse_North,Health,3035035.204782095,TND,False,Both,All,All,sample_budget_2022.xlsx
+2022,Tunisia,Sousse,Sousse_North,Health,524522.6042549887,TND,True,Women,Middle,With disability,sample_budget_2022.xlsx
+2022,Tunisia,Sousse,Sousse_North,GBV_response,1682872.228576085,TND,True,Both,All,All,sample_budget_2022.xlsx
+2022,Tunisia,Sousse,Sousse_North,GBV_response,708590.6839365638,TND,True,Women,Low,All,sample_budget_2022.xlsx
+2022,Tunisia,Sousse,Sousse_North,Economic_support,2768091.5301281097,TND,False,Both,All,All,sample_budget_2022.xlsx
+2022,Tunisia,Sousse,Sousse_North,Economic_support,719342.5563464031,TND,True,Women,Low,With disability,sample_budget_2022.xlsx
+2022,Tunisia,Sousse,Sousse_North,Governance_participation,3606314.992466928,TND,False,Both,All,All,sample_budget_2022.xlsx
+2023,Tunisia,Sousse,Sousse_North,Education,3282975.2528406493,TND,False,Both,All,All,sample_budget_2023.xlsx
+2023,Tunisia,Sousse,Sousse_North,Education,1092225.0757204152,TND,True,Women,Low,All,sample_budget_2023.xlsx
+2023,Tunisia,Sousse,Sousse_North,Health,2103233.885372512,TND,False,Both,All,All,sample_budget_2023.xlsx
+2023,Tunisia,Sousse,Sousse_North,Health,678971.109017548,TND,True,Both,Low,With disability,sample_budget_2023.xlsx
+2023,Tunisia,Sousse,Sousse_North,GBV_response,4229483.352320095,TND,False,Both,All,All,sample_budget_2023.xlsx
+2023,Tunisia,Sousse,Sousse_North,Economic_support,1999693.2764972178,TND,False,Both,All,All,sample_budget_2023.xlsx
+2023,Tunisia,Sousse,Sousse_North,Economic_support,653193.7453379993,TND,True,Women,Low,With disability,sample_budget_2023.xlsx
+2023,Tunisia,Sousse,Sousse_North,Governance_participation,1863554.186749183,TND,True,Both,All,All,sample_budget_2023.xlsx
+2023,Tunisia,Sousse,Sousse_North,Governance_participation,508665.0731468681,TND,True,Women,Low,With disability,sample_budget_2023.xlsx
+2024,Tunisia,Sousse,Sousse_North,Education,1472054.1015329284,TND,False,Both,All,All,sample_budget_2024.xlsx
+2024,Tunisia,Sousse,Sousse_North,Education,556519.9971867393,TND,True,Women,Low,No disability,sample_budget_2024.xlsx
+2024,Tunisia,Sousse,Sousse_North,Health,856470.5597458845,TND,False,Both,All,All,sample_budget_2024.xlsx
+2024,Tunisia,Sousse,Sousse_North,GBV_response,1307602.3229640578,TND,False,Both,All,All,sample_budget_2024.xlsx
+2024,Tunisia,Sousse,Sousse_North,GBV_response,749516.5917323251,TND,True,Both,Low,All,sample_budget_2024.xlsx
+2024,Tunisia,Sousse,Sousse_North,Economic_support,1302027.5408823986,TND,False,Both,All,All,sample_budget_2024.xlsx
+2024,Tunisia,Sousse,Sousse_North,Economic_support,724796.934542159,TND,True,Both,Middle,With disability,sample_budget_2024.xlsx
+2024,Tunisia,Sousse,Sousse_North,Governance_participation,2452445.325362418,TND,True,Both,All,All,sample_budget_2024.xlsx
+2020,Tunisia,Sousse,Sousse_South,Education,2330933.7873138646,TND,False,Both,All,All,sample_budget_2020.xlsx
+2020,Tunisia,Sousse,Sousse_South,Health,2086166.310501083,TND,False,Both,All,All,sample_budget_2020.xlsx
+2020,Tunisia,Sousse,Sousse_South,Health,801799.7748758341,TND,True,Women,Low,All,sample_budget_2020.xlsx
+2020,Tunisia,Sousse,Sousse_South,GBV_response,1185453.0425413877,TND,False,Both,All,All,sample_budget_2020.xlsx
+2020,Tunisia,Sousse,Sousse_South,GBV_response,435907.6760573961,TND,True,Both,Low,All,sample_budget_2020.xlsx
+2020,Tunisia,Sousse,Sousse_South,Economic_support,1881715.9003312304,TND,False,Both,All,All,sample_budget_2020.xlsx
+2020,Tunisia,Sousse,Sousse_South,Economic_support,591308.5362270407,TND,True,Women,Middle,All,sample_budget_2020.xlsx
+2020,Tunisia,Sousse,Sousse_South,Governance_participation,952258.7172534663,TND,True,Both,All,All,sample_budget_2020.xlsx
+2020,Tunisia,Sousse,Sousse_South,Governance_participation,272347.49071179295,TND,True,Women,Middle,All,sample_budget_2020.xlsx
+2021,Tunisia,Sousse,Sousse_South,Education,1780734.0245142758,TND,True,Both,All,All,sample_budget_2021.xlsx
+2021,Tunisia,Sousse,Sousse_South,Education,736798.9593323927,TND,True,Women,Low,With disability,sample_budget_2021.xlsx
+2021,Tunisia,Sousse,Sousse_South,Health,1057547.1510575046,TND,False,Both,All,All,sample_budget_2021.xlsx
+2021,Tunisia,Sousse,Sousse_South,GBV_response,1648251.468023512,TND,True,Both,All,All,sample_budget_2021.xlsx
+2021,Tunisia,Sousse,Sousse_South,GBV_response,854864.4699621209,TND,True,Women,All,All,sample_budget_2021.xlsx
+2021,Tunisia,Sousse,Sousse_South,Economic_support,1534406.867010718,TND,False,Both,All,All,sample_budget_2021.xlsx
+2021,Tunisia,Sousse,Sousse_South,Governance_participation,1010860.2111448754,TND,False,Both,All,All,sample_budget_2021.xlsx
+2021,Tunisia,Sousse,Sousse_South,Governance_participation,259815.23320286645,TND,True,Women,Low,All,sample_budget_2021.xlsx
+2022,Tunisia,Sousse,Sousse_South,Education,2399355.033939955,TND,False,Both,All,All,sample_budget_2022.xlsx
+2022,Tunisia,Sousse,Sousse_South,Education,650694.8418185606,TND,True,Women,Middle,All,sample_budget_2022.xlsx
+2022,Tunisia,Sousse,Sousse_South,Health,3044153.842526016,TND,False,Both,All,All,sample_budget_2022.xlsx
+2022,Tunisia,Sousse,Sousse_South,GBV_response,3646692.169040079,TND,False,Both,All,All,sample_budget_2022.xlsx
+2022,Tunisia,Sousse,Sousse_South,GBV_response,1658764.7046039815,TND,True,Women,Low,All,sample_budget_2022.xlsx
+2022,Tunisia,Sousse,Sousse_South,Economic_support,2321243.1026561065,TND,False,Both,All,All,sample_budget_2022.xlsx
+2022,Tunisia,Sousse,Sousse_South,Economic_support,1097504.425356091,TND,True,Women,All,No disability,sample_budget_2022.xlsx
+2022,Tunisia,Sousse,Sousse_South,Governance_participation,3510945.9058280527,TND,False,Both,All,All,sample_budget_2022.xlsx
+2022,Tunisia,Sousse,Sousse_South,Governance_participation,816297.2101842676,TND,True,Women,Middle,No disability,sample_budget_2022.xlsx
+2023,Tunisia,Sousse,Sousse_South,Education,1819232.654880806,TND,False,Both,All,All,sample_budget_2023.xlsx
+2023,Tunisia,Sousse,Sousse_South,Education,299582.42305740697,TND,True,Women,Low,With disability,sample_budget_2023.xlsx
+2023,Tunisia,Sousse,Sousse_South,Health,1115980.9386161154,TND,False,Both,All,All,sample_budget_2023.xlsx
+2023,Tunisia,Sousse,Sousse_South,Health,369227.54651193484,TND,True,Women,Low,All,sample_budget_2023.xlsx
+2023,Tunisia,Sousse,Sousse_South,GBV_response,846083.971891084,TND,False,Both,All,All,sample_budget_2023.xlsx
+2023,Tunisia,Sousse,Sousse_South,Economic_support,1125104.8708651306,TND,False,Both,All,All,sample_budget_2023.xlsx
+2023,Tunisia,Sousse,Sousse_South,Economic_support,413311.93448299944,TND,True,Women,All,With disability,sample_budget_2023.xlsx
+2023,Tunisia,Sousse,Sousse_South,Governance_participation,1578108.918650808,TND,False,Both,All,All,sample_budget_2023.xlsx
+2024,Tunisia,Sousse,Sousse_South,Education,3530115.8838827587,TND,False,Both,All,All,sample_budget_2024.xlsx
+2024,Tunisia,Sousse,Sousse_South,Education,878868.7804083934,TND,True,Women,Middle,All,sample_budget_2024.xlsx
+2024,Tunisia,Sousse,Sousse_South,Health,3694259.2366556074,TND,True,Both,All,All,sample_budget_2024.xlsx
+2024,Tunisia,Sousse,Sousse_South,GBV_response,3038690.351623716,TND,True,Both,All,All,sample_budget_2024.xlsx
+2024,Tunisia,Sousse,Sousse_South,GBV_response,660380.6024456824,TND,True,Women,Low,All,sample_budget_2024.xlsx
+2024,Tunisia,Sousse,Sousse_South,Economic_support,2691497.8546560975,TND,False,Both,All,All,sample_budget_2024.xlsx
+2024,Tunisia,Sousse,Sousse_South,Governance_participation,2165074.155808184,TND,True,Both,All,All,sample_budget_2024.xlsx
+2024,Tunisia,Sousse,Sousse_South,Governance_participation,416093.2099169119,TND,True,Both,All,With disability,sample_budget_2024.xlsx
+2020,Tunisia,Sfax,Sfax_City,Education,2885513.3826836264,TND,False,Both,All,All,sample_budget_2020.xlsx
+2020,Tunisia,Sfax,Sfax_City,Education,416248.55371868453,TND,True,Women,Low,No disability,sample_budget_2020.xlsx
+2020,Tunisia,Sfax,Sfax_City,Health,1453282.1252989876,TND,False,Both,All,All,sample_budget_2020.xlsx
+2020,Tunisia,Sfax,Sfax_City,Health,601030.1775727478,TND,True,Women,All,With disability,sample_budget_2020.xlsx
+2020,Tunisia,Sfax,Sfax_City,GBV_response,2518210.6242150427,TND,False,Both,All,All,sample_budget_2020.xlsx
+2020,Tunisia,Sfax,Sfax_City,Economic_support,1132552.5908977059,TND,False,Both,All,All,sample_budget_2020.xlsx
+2020,Tunisia,Sfax,Sfax_City,Economic_support,440844.8328393205,TND,True,Both,Low,With disability,sample_budget_2020.xlsx
+2020,Tunisia,Sfax,Sfax_City,Governance_participation,1697305.4430456043,TND,False,Both,All,All,sample_budget_2020.xlsx
+2021,Tunisia,Sfax,Sfax_City,Education,2245598.6981975534,TND,False,Both,All,All,sample_budget_2021.xlsx
+2021,Tunisia,Sfax,Sfax_City,Education,820164.8275198147,TND,True,Both,All,All,sample_budget_2021.xlsx
+2021,Tunisia,Sfax,Sfax_City,Health,3867486.4610996665,TND,True,Both,All,All,sample_budget_2021.xlsx
+2021,Tunisia,Sfax,Sfax_City,GBV_response,2540403.859218925,TND,False,Both,All,All,sample_budget_2021.xlsx
+2021,Tunisia,Sfax,Sfax_City,GBV_response,589164.0171415576,TND,True,Women,Low,All,sample_budget_2021.xlsx
+2021,Tunisia,Sfax,Sfax_City,Economic_support,1822407.945892077,TND,False,Both,All,All,sample_budget_2021.xlsx
+2021,Tunisia,Sfax,Sfax_City,Governance_participation,3818636.959623205,TND,False,Both,All,All,sample_budget_2021.xlsx
+2021,Tunisia,Sfax,Sfax_City,Governance_participation,1335351.214778262,TND,True,Women,Middle,All,sample_budget_2021.xlsx
+2022,Tunisia,Sfax,Sfax_City,Education,1592411.7468013698,TND,True,Both,All,All,sample_budget_2022.xlsx
+2022,Tunisia,Sfax,Sfax_City,Education,817039.8944848888,TND,True,Women,Low,All,sample_budget_2022.xlsx
+2022,Tunisia,Sfax,Sfax_City,Health,1094387.7494153236,TND,False,Both,All,All,sample_budget_2022.xlsx
+2022,Tunisia,Sfax,Sfax_City,GBV_response,1361822.8210830612,TND,False,Both,All,All,sample_budget_2022.xlsx
+2022,Tunisia,Sfax,Sfax_City,Economic_support,1177096.6181362923,TND,False,Both,All,All,sample_budget_2022.xlsx
+2022,Tunisia,Sfax,Sfax_City,Economic_support,315461.58127882343,TND,True,Women,Middle,With disability,sample_budget_2022.xlsx
+2022,Tunisia,Sfax,Sfax_City,Governance_participation,1713520.4635437801,TND,True,Both,All,All,sample_budget_2022.xlsx
+2023,Tunisia,Sfax,Sfax_City,Education,2091924.9023736939,TND,True,Both,All,All,sample_budget_2023.xlsx
+2023,Tunisia,Sfax,Sfax_City,Education,1052259.3173178947,TND,True,Women,Low,All,sample_budget_2023.xlsx
+2023,Tunisia,Sfax,Sfax_City,Health,2506165.8844235796,TND,True,Both,All,All,sample_budget_2023.xlsx
+2023,Tunisia,Sfax,Sfax_City,GBV_response,2430820.7410036405,TND,False,Both,All,All,sample_budget_2023.xlsx
+2023,Tunisia,Sfax,Sfax_City,Economic_support,1788565.7802125346,TND,True,Both,All,All,sample_budget_2023.xlsx
+2023,Tunisia,Sfax,Sfax_City,Economic_support,642087.462357088,TND,True,Women,Middle,All,sample_budget_2023.xlsx
+2023,Tunisia,Sfax,Sfax_City,Governance_participation,2312134.6173185566,TND,False,Both,All,All,sample_budget_2023.xlsx
+2024,Tunisia,Sfax,Sfax_City,Education,1953990.5363192614,TND,False,Both,All,All,sample_budget_2024.xlsx
+2024,Tunisia,Sfax,Sfax_City,Health,1368348.042615546,TND,False,Both,All,All,sample_budget_2024.xlsx
+2024,Tunisia,Sfax,Sfax_City,GBV_response,1525673.749491758,TND,False,Both,All,All,sample_budget_2024.xlsx
+2024,Tunisia,Sfax,Sfax_City,GBV_response,485222.1667679455,TND,True,Women,Middle,No disability,sample_budget_2024.xlsx
+2024,Tunisia,Sfax,Sfax_City,Economic_support,1662535.795062869,TND,False,Both,All,All,sample_budget_2024.xlsx
+2024,Tunisia,Sfax,Sfax_City,Governance_participation,1387619.1587835113,TND,False,Both,All,All,sample_budget_2024.xlsx
+2024,Tunisia,Sfax,Sfax_City,Governance_participation,617714.4638743635,TND,True,Women,Low,All,sample_budget_2024.xlsx
+2020,Tunisia,Sfax,El_Houaria,Education,1628899.6933402389,TND,False,Both,All,All,sample_budget_2020.xlsx
+2020,Tunisia,Sfax,El_Houaria,Education,673501.5581594853,TND,True,Both,All,All,sample_budget_2020.xlsx
+2020,Tunisia,Sfax,El_Houaria,Health,1496926.5422076504,TND,False,Both,All,All,sample_budget_2020.xlsx
+2020,Tunisia,Sfax,El_Houaria,Health,228929.65509559115,TND,True,Women,Low,All,sample_budget_2020.xlsx
+2020,Tunisia,Sfax,El_Houaria,GBV_response,2321864.3578836354,TND,False,Both,All,All,sample_budget_2020.xlsx
+2020,Tunisia,Sfax,El_Houaria,GBV_response,1086613.6856729793,TND,True,Women,Low,All,sample_budget_2020.xlsx
+2020,Tunisia,Sfax,El_Houaria,Economic_support,2488793.7225431395,TND,False,Both,All,All,sample_budget_2020.xlsx
+2020,Tunisia,Sfax,El_Houaria,Economic_support,500442.14244430733,TND,True,Women,All,All,sample_budget_2020.xlsx
+2020,Tunisia,Sfax,El_Houaria,Governance_participation,1543939.7688635376,TND,False,Both,All,All,sample_budget_2020.xlsx
+2021,Tunisia,Sfax,El_Houaria,Education,2548148.150151122,TND,True,Both,All,All,sample_budget_2021.xlsx
+2021,Tunisia,Sfax,El_Houaria,Health,3235510.3826456256,TND,True,Both,All,All,sample_budget_2021.xlsx
+2021,Tunisia,Sfax,El_Houaria,GBV_response,2576070.6921336143,TND,False,Both,All,All,sample_budget_2021.xlsx
+2021,Tunisia,Sfax,El_Houaria,Economic_support,1603263.599735775,TND,False,Both,All,All,sample_budget_2021.xlsx
+2021,Tunisia,Sfax,El_Houaria,Economic_support,339279.59752423037,TND,True,Women,All,With disability,sample_budget_2021.xlsx
+2021,Tunisia,Sfax,El_Houaria,Governance_participation,1696532.7546593864,TND,False,Both,All,All,sample_budget_2021.xlsx
+2021,Tunisia,Sfax,El_Houaria,Governance_participation,697869.2720880752,TND,True,Women,All,All,sample_budget_2021.xlsx
+2022,Tunisia,Sfax,El_Houaria,Education,2126762.026539578,TND,False,Both,All,All,sample_budget_2022.xlsx
+2022,Tunisia,Sfax,El_Houaria,Education,443246.20171941584,TND,True,Women,Low,With disability,sample_budget_2022.xlsx
+2022,Tunisia,Sfax,El_Houaria,Health,2577570.461877431,TND,False,Both,All,All,sample_budget_2022.xlsx
+2022,Tunisia,Sfax,El_Houaria,Health,637135.5207937356,TND,True,Women,Low,All,sample_budget_2022.xlsx
+2022,Tunisia,Sfax,El_Houaria,GBV_response,2124632.4206710933,TND,False,Both,All,All,sample_budget_2022.xlsx
+2022,Tunisia,Sfax,El_Houaria,GBV_response,494593.59496770205,TND,True,Both,Low,With disability,sample_budget_2022.xlsx
+2022,Tunisia,Sfax,El_Houaria,Economic_support,2611743.245531109,TND,False,Both,All,All,sample_budget_2022.xlsx
+2022,Tunisia,Sfax,El_Houaria,Governance_participation,3093418.8074735976,TND,False,Both,All,All,sample_budget_2022.xlsx
+2022,Tunisia,Sfax,El_Houaria,Governance_participation,878909.7900930105,TND,True,Women,Low,All,sample_budget_2022.xlsx
+2023,Tunisia,Sfax,El_Houaria,Education,1615750.4431807096,TND,False,Both,All,All,sample_budget_2023.xlsx
+2023,Tunisia,Sfax,El_Houaria,Education,454119.14615160844,TND,True,Women,All,All,sample_budget_2023.xlsx
+2023,Tunisia,Sfax,El_Houaria,Health,1243547.8779771668,TND,True,Both,All,All,sample_budget_2023.xlsx
+2023,Tunisia,Sfax,El_Houaria,Health,359659.35376645904,TND,True,Women,Low,With disability,sample_budget_2023.xlsx
+2023,Tunisia,Sfax,El_Houaria,GBV_response,1576654.1869054448,TND,True,Both,All,All,sample_budget_2023.xlsx
+2023,Tunisia,Sfax,El_Houaria,GBV_response,322339.4857133736,TND,True,Women,Low,All,sample_budget_2023.xlsx
+2023,Tunisia,Sfax,El_Houaria,Economic_support,1327100.725701648,TND,True,Both,All,All,sample_budget_2023.xlsx
+2023,Tunisia,Sfax,El_Houaria,Economic_support,417560.5059143764,TND,True,Both,Middle,All,sample_budget_2023.xlsx
+2023,Tunisia,Sfax,El_Houaria,Governance_participation,1068052.5878808321,TND,True,Both,All,All,sample_budget_2023.xlsx
+2023,Tunisia,Sfax,El_Houaria,Governance_participation,538168.4791088989,TND,True,Women,Low,All,sample_budget_2023.xlsx
+2024,Tunisia,Sfax,El_Houaria,Education,1168102.2128215607,TND,True,Both,All,All,sample_budget_2024.xlsx
+2024,Tunisia,Sfax,El_Houaria,Education,585463.0240855638,TND,True,Women,All,All,sample_budget_2024.xlsx
+2024,Tunisia,Sfax,El_Houaria,Health,1351961.3071251984,TND,False,Both,All,All,sample_budget_2024.xlsx
+2024,Tunisia,Sfax,El_Houaria,Health,306743.5112603435,TND,True,Women,All,All,sample_budget_2024.xlsx
+2024,Tunisia,Sfax,El_Houaria,GBV_response,1299584.3657194246,TND,True,Both,All,All,sample_budget_2024.xlsx
+2024,Tunisia,Sfax,El_Houaria,GBV_response,420840.00592112605,TND,True,Women,Middle,All,sample_budget_2024.xlsx
+2024,Tunisia,Sfax,El_Houaria,Economic_support,1507349.1482469516,TND,False,Both,All,All,sample_budget_2024.xlsx
+2024,Tunisia,Sfax,El_Houaria,Economic_support,570123.1622833114,TND,True,Women,Low,All,sample_budget_2024.xlsx
+2024,Tunisia,Sfax,El_Houaria,Governance_participation,1175603.0563613253,TND,False,Both,All,All,sample_budget_2024.xlsx
+2024,Tunisia,Sfax,El_Houaria,Governance_participation,189485.94257036818,TND,True,Both,Low,With disability,sample_budget_2024.xlsx
+2020,Armenia,Yerevan,Kentron,Education,1203728.7132813097,AMD,False,Both,All,All,sample_budget_2020.xlsx
+2020,Armenia,Yerevan,Kentron,Education,408400.8905665046,AMD,True,Women,Middle,All,sample_budget_2020.xlsx
+2020,Armenia,Yerevan,Kentron,Health,2234830.7085645483,AMD,True,Both,All,All,sample_budget_2020.xlsx
+2020,Armenia,Yerevan,Kentron,Health,705870.5490487266,AMD,True,Women,Middle,With disability,sample_budget_2020.xlsx
+2020,Armenia,Yerevan,Kentron,GBV_response,1490831.997339435,AMD,True,Both,All,All,sample_budget_2020.xlsx
+2020,Armenia,Yerevan,Kentron,Economic_support,2562707.757394229,AMD,True,Both,All,All,sample_budget_2020.xlsx
+2020,Armenia,Yerevan,Kentron,Governance_participation,2826021.1251979964,AMD,False,Both,All,All,sample_budget_2020.xlsx
+2021,Armenia,Yerevan,Kentron,Education,2049153.9409240065,AMD,False,Both,All,All,sample_budget_2021.xlsx
+2021,Armenia,Yerevan,Kentron,Health,2749640.2444436336,AMD,False,Both,All,All,sample_budget_2021.xlsx
+2021,Armenia,Yerevan,Kentron,GBV_response,2421751.2572242226,AMD,False,Both,All,All,sample_budget_2021.xlsx
+2021,Armenia,Yerevan,Kentron,GBV_response,1081926.0022275713,AMD,True,Both,Middle,All,sample_budget_2021.xlsx
+2021,Armenia,Yerevan,Kentron,Economic_support,2262909.635188075,AMD,True,Both,All,All,sample_budget_2021.xlsx
+2021,Armenia,Yerevan,Kentron,Governance_participation,4550981.421886973,AMD,False,Both,All,All,sample_budget_2021.xlsx
+2021,Armenia,Yerevan,Kentron,Governance_participation,679711.2251394163,AMD,True,Women,Middle,With disability,sample_budget_2021.xlsx
+2022,Armenia,Yerevan,Kentron,Education,1580801.534792151,AMD,False,Both,All,All,sample_budget_2022.xlsx
+2022,Armenia,Yerevan,Kentron,Education,575473.8691712228,AMD,True,Both,Low,All,sample_budget_2022.xlsx
+2022,Armenia,Yerevan,Kentron,Health,2019859.6008295547,AMD,False,Both,All,All,sample_budget_2022.xlsx
+2022,Armenia,Yerevan,Kentron,Health,622586.0429042559,AMD,True,Both,Middle,No disability,sample_budget_2022.xlsx
+2022,Armenia,Yerevan,Kentron,GBV_response,2395626.4208493894,AMD,False,Both,All,All,sample_budget_2022.xlsx
+2022,Armenia,Yerevan,Kentron,Economic_support,2949025.042451454,AMD,False,Both,All,All,sample_budget_2022.xlsx
+2022,Armenia,Yerevan,Kentron,Economic_support,927633.1016141234,AMD,True,Women,Low,With disability,sample_budget_2022.xlsx
+2022,Armenia,Yerevan,Kentron,Governance_participation,2940040.356512825,AMD,False,Both,All,All,sample_budget_2022.xlsx
+2023,Armenia,Yerevan,Kentron,Education,2374432.285805594,AMD,False,Both,All,All,sample_budget_2023.xlsx
+2023,Armenia,Yerevan,Kentron,Education,992119.3086990417,AMD,True,Women,All,All,sample_budget_2023.xlsx
+2023,Armenia,Yerevan,Kentron,Health,934485.8780881404,AMD,False,Both,All,All,sample_budget_2023.xlsx
+2023,Armenia,Yerevan,Kentron,Health,474973.00478918076,AMD,True,Women,Low,All,sample_budget_2023.xlsx
+2023,Armenia,Yerevan,Kentron,GBV_response,1461934.1998972655,AMD,True,Both,All,All,sample_budget_2023.xlsx
+2023,Armenia,Yerevan,Kentron,Economic_support,1199873.748273003,AMD,False,Both,All,All,sample_budget_2023.xlsx
+2023,Armenia,Yerevan,Kentron,Economic_support,188007.14998679032,AMD,True,Women,Low,With disability,sample_budget_2023.xlsx
+2023,Armenia,Yerevan,Kentron,Governance_participation,1966928.4823482246,AMD,False,Both,All,All,sample_budget_2023.xlsx
+2023,Armenia,Yerevan,Kentron,Governance_participation,500484.88811833016,AMD,True,Women,All,With disability,sample_budget_2023.xlsx
+2024,Armenia,Yerevan,Kentron,Education,1660807.3186988907,AMD,False,Both,All,All,sample_budget_2024.xlsx
+2024,Armenia,Yerevan,Kentron,Education,489066.15109209827,AMD,True,Women,Low,All,sample_budget_2024.xlsx
+2024,Armenia,Yerevan,Kentron,Health,2932234.28741648,AMD,False,Both,All,All,sample_budget_2024.xlsx
+2024,Armenia,Yerevan,Kentron,Health,1037509.1431018477,AMD,True,Women,Middle,With disability,sample_budget_2024.xlsx
+2024,Armenia,Yerevan,Kentron,GBV_response,2524434.201892749,AMD,False,Both,All,All,sample_budget_2024.xlsx
+2024,Armenia,Yerevan,Kentron,Economic_support,2226137.6266239276,AMD,False,Both,All,All,sample_budget_2024.xlsx
+2024,Armenia,Yerevan,Kentron,Economic_support,883490.4498375348,AMD,True,Women,Low,With disability,sample_budget_2024.xlsx
+2024,Armenia,Yerevan,Kentron,Governance_participation,1401338.1786987975,AMD,False,Both,All,All,sample_budget_2024.xlsx
+2024,Armenia,Yerevan,Kentron,Governance_participation,412972.82039718877,AMD,True,Women,Middle,All,sample_budget_2024.xlsx
+2020,Armenia,Yerevan,Avan,Education,4056874.6511469968,AMD,False,Both,All,All,sample_budget_2020.xlsx
+2020,Armenia,Yerevan,Avan,Education,615262.6023137359,AMD,True,Women,Low,All,sample_budget_2020.xlsx
+2020,Armenia,Yerevan,Avan,Health,1378271.224480372,AMD,True,Both,All,All,sample_budget_2020.xlsx
+2020,Armenia,Yerevan,Avan,Health,781898.7647061405,AMD,True,Women,All,With disability,sample_budget_2020.xlsx
+2020,Armenia,Yerevan,Avan,GBV_response,3886415.1498966306,AMD,False,Both,All,All,sample_budget_2020.xlsx
+2020,Armenia,Yerevan,Avan,Economic_support,1621169.358895677,AMD,True,Both,All,All,sample_budget_2020.xlsx
+2020,Armenia,Yerevan,Avan,Governance_participation,2930504.904423649,AMD,True,Both,All,All,sample_budget_2020.xlsx
+2021,Armenia,Yerevan,Avan,Education,1460545.733656457,AMD,False,Both,All,All,sample_budget_2021.xlsx
+2021,Armenia,Yerevan,Avan,Education,544554.880650952,AMD,True,Both,Low,With disability,sample_budget_2021.xlsx
+2021,Armenia,Yerevan,Avan,Health,1274548.488737737,AMD,False,Both,All,All,sample_budget_2021.xlsx
+2021,Armenia,Yerevan,Avan,GBV_response,950846.6513549396,AMD,False,Both,All,All,sample_budget_2021.xlsx
+2021,Armenia,Yerevan,Avan,GBV_response,428203.8972964259,AMD,True,Women,Middle,With disability,sample_budget_2021.xlsx
+2021,Armenia,Yerevan,Avan,Economic_support,2092668.3067352043,AMD,True,Both,All,All,sample_budget_2021.xlsx
+2021,Armenia,Yerevan,Avan,Economic_support,699520.2962505048,AMD,True,Women,Low,All,sample_budget_2021.xlsx
+2021,Armenia,Yerevan,Avan,Governance_participation,1247603.0582464286,AMD,False,Both,All,All,sample_budget_2021.xlsx
+2021,Armenia,Yerevan,Avan,Governance_participation,356640.10377907264,AMD,True,Both,All,No disability,sample_budget_2021.xlsx
+2022,Armenia,Yerevan,Avan,Education,1380903.0318171976,AMD,False,Both,All,All,sample_budget_2022.xlsx
+2022,Armenia,Yerevan,Avan,Health,1480475.961045804,AMD,True,Both,All,All,sample_budget_2022.xlsx
+2022,Armenia,Yerevan,Avan,Health,798562.4979088076,AMD,True,Both,Low,All,sample_budget_2022.xlsx
+2022,Armenia,Yerevan,Avan,GBV_response,1410066.278812248,AMD,False,Both,All,All,sample_budget_2022.xlsx
+2022,Armenia,Yerevan,Avan,GBV_response,447002.9158216469,AMD,True,Women,Low,With disability,sample_budget_2022.xlsx
+2022,Armenia,Yerevan,Avan,Economic_support,1346123.4439214463,AMD,True,Both,All,All,sample_budget_2022.xlsx
+2022,Armenia,Yerevan,Avan,Governance_participation,1667936.337836575,AMD,False,Both,All,All,sample_budget_2022.xlsx
+2022,Armenia,Yerevan,Avan,Governance_participation,341744.71416760725,AMD,True,Women,All,All,sample_budget_2022.xlsx
+2023,Armenia,Yerevan,Avan,Education,3350102.2227899516,AMD,False,Both,All,All,sample_budget_2023.xlsx
+2023,Armenia,Yerevan,Avan,Health,3403743.5417334633,AMD,True,Both,All,All,sample_budget_2023.xlsx
+2023,Armenia,Yerevan,Avan,GBV_response,1877537.720944234,AMD,True,Both,All,All,sample_budget_2023.xlsx
+2023,Armenia,Yerevan,Avan,GBV_response,438096.06369850395,AMD,True,Both,Low,With disability,sample_budget_2023.xlsx
+2023,Armenia,Yerevan,Avan,Economic_support,1505453.7455307292,AMD,False,Both,All,All,sample_budget_2023.xlsx
+2023,Armenia,Yerevan,Avan,Economic_support,357595.63209296775,AMD,True,Women,Middle,All,sample_budget_2023.xlsx
+2023,Armenia,Yerevan,Avan,Governance_participation,3059132.4579564435,AMD,False,Both,All,All,sample_budget_2023.xlsx
+2024,Armenia,Yerevan,Avan,Education,3342218.252468964,AMD,True,Both,All,All,sample_budget_2024.xlsx
+2024,Armenia,Yerevan,Avan,Health,3036235.7634221786,AMD,False,Both,All,All,sample_budget_2024.xlsx
+2024,Armenia,Yerevan,Avan,GBV_response,3101523.001370001,AMD,True,Both,All,All,sample_budget_2024.xlsx
+2024,Armenia,Yerevan,Avan,GBV_response,719813.9589846818,AMD,True,Women,All,With disability,sample_budget_2024.xlsx
+2024,Armenia,Yerevan,Avan,Economic_support,2634597.9341674284,AMD,True,Both,All,All,sample_budget_2024.xlsx
+2024,Armenia,Yerevan,Avan,Governance_participation,2299671.9348851964,AMD,False,Both,All,All,sample_budget_2024.xlsx
+2024,Armenia,Yerevan,Avan,Governance_participation,891934.1137187677,AMD,True,Women,Middle,All,sample_budget_2024.xlsx
+2020,Armenia,Ararat,Vedi,Education,1413319.4996080794,AMD,False,Both,All,All,sample_budget_2020.xlsx
+2020,Armenia,Ararat,Vedi,Health,2160792.331172602,AMD,True,Both,All,All,sample_budget_2020.xlsx
+2020,Armenia,Ararat,Vedi,Health,623772.5002803507,AMD,True,Women,Low,All,sample_budget_2020.xlsx
+2020,Armenia,Ararat,Vedi,GBV_response,2621592.1617569085,AMD,False,Both,All,All,sample_budget_2020.xlsx
+2020,Armenia,Ararat,Vedi,GBV_response,424417.0421935088,AMD,True,Women,Low,No disability,sample_budget_2020.xlsx
+2020,Armenia,Ararat,Vedi,Economic_support,1932718.8892834182,AMD,True,Both,All,All,sample_budget_2020.xlsx
+2020,Armenia,Ararat,Vedi,Economic_support,755982.389346353,AMD,True,Both,Middle,All,sample_budget_2020.xlsx
+2020,Armenia,Ararat,Vedi,Governance_participation,1186163.8457789447,AMD,False,Both,All,All,sample_budget_2020.xlsx
+2020,Armenia,Ararat,Vedi,Governance_participation,282509.8164345565,AMD,True,Women,Low,All,sample_budget_2020.xlsx
+2021,Armenia,Ararat,Vedi,Education,1929721.451275885,AMD,False,Both,All,All,sample_budget_2021.xlsx
+2021,Armenia,Ararat,Vedi,Education,371972.2357654554,AMD,True,Women,Middle,All,sample_budget_2021.xlsx
+2021,Armenia,Ararat,Vedi,Health,2118656.4815496155,AMD,False,Both,All,All,sample_budget_2021.xlsx
+2021,Armenia,Ararat,Vedi,Health,663780.5614300383,AMD,True,Both,Low,With disability,sample_budget_2021.xlsx
+2021,Armenia,Ararat,Vedi,GBV_response,2216207.971153015,AMD,False,Both,All,All,sample_budget_2021.xlsx
+2021,Armenia,Ararat,Vedi,Economic_support,1178014.9536945608,AMD,False,Both,All,All,sample_budget_2021.xlsx
+2021,Armenia,Ararat,Vedi,Governance_participation,1021449.7829608135,AMD,False,Both,All,All,sample_budget_2021.xlsx
+2021,Armenia,Ararat,Vedi,Governance_participation,346359.2526207875,AMD,True,Women,All,With disability,sample_budget_2021.xlsx
+2022,Armenia,Ararat,Vedi,Education,2520908.3656609147,AMD,False,Both,All,All,sample_budget_2022.xlsx
+2022,Armenia,Ararat,Vedi,Education,1061722.2182043763,AMD,True,Both,Low,No disability,sample_budget_2022.xlsx
+2022,Armenia,Ararat,Vedi,Health,1477175.5013322919,AMD,False,Both,All,All,sample_budget_2022.xlsx
+2022,Armenia,Ararat,Vedi,Health,397275.6227633468,AMD,True,Women,Middle,All,sample_budget_2022.xlsx
+2022,Armenia,Ararat,Vedi,GBV_response,1650642.8381545336,AMD,False,Both,All,All,sample_budget_2022.xlsx
+2022,Armenia,Ararat,Vedi,GBV_response,678307.9006566098,AMD,True,Both,Low,With disability,sample_budget_2022.xlsx
+2022,Armenia,Ararat,Vedi,Economic_support,1466582.191411302,AMD,False,Both,All,All,sample_budget_2022.xlsx
+2022,Armenia,Ararat,Vedi,Governance_participation,1894355.053522901,AMD,False,Both,All,All,sample_budget_2022.xlsx
+2022,Armenia,Ararat,Vedi,Governance_participation,640435.0390140867,AMD,True,Both,Middle,With disability,sample_budget_2022.xlsx
+2023,Armenia,Ararat,Vedi,Education,3106058.2790903137,AMD,False,Both,All,All,sample_budget_2023.xlsx
+2023,Armenia,Ararat,Vedi,Education,743764.3922640636,AMD,True,Women,Low,All,sample_budget_2023.xlsx
+2023,Armenia,Ararat,Vedi,Health,2106640.342914821,AMD,False,Both,All,All,sample_budget_2023.xlsx
+2023,Armenia,Ararat,Vedi,Health,616281.1722952208,AMD,True,Women,Low,With disability,sample_budget_2023.xlsx
+2023,Armenia,Ararat,Vedi,GBV_response,2941438.420418976,AMD,False,Both,All,All,sample_budget_2023.xlsx
+2023,Armenia,Ararat,Vedi,GBV_response,1275498.5825904813,AMD,True,Both,Low,All,sample_budget_2023.xlsx
+2023,Armenia,Ararat,Vedi,Economic_support,4728727.5011261515,AMD,False,Both,All,All,sample_budget_2023.xlsx
+2023,Armenia,Ararat,Vedi,Economic_support,714163.734159007,AMD,True,Women,Low,With disability,sample_budget_2023.xlsx
+2023,Armenia,Ararat,Vedi,Governance_participation,2690301.653394951,AMD,False,Both,All,All,sample_budget_2023.xlsx
+2023,Armenia,Ararat,Vedi,Governance_participation,1245872.1190827424,AMD,True,Women,Low,All,sample_budget_2023.xlsx
+2024,Armenia,Ararat,Vedi,Education,2970196.191471166,AMD,False,Both,All,All,sample_budget_2024.xlsx
+2024,Armenia,Ararat,Vedi,Health,2022205.039602503,AMD,True,Both,All,All,sample_budget_2024.xlsx
+2024,Armenia,Ararat,Vedi,Health,540600.2553070594,AMD,True,Women,Middle,All,sample_budget_2024.xlsx
+2024,Armenia,Ararat,Vedi,GBV_response,2543752.95939917,AMD,False,Both,All,All,sample_budget_2024.xlsx
+2024,Armenia,Ararat,Vedi,GBV_response,884772.4915213368,AMD,True,Women,Low,No disability,sample_budget_2024.xlsx
+2024,Armenia,Ararat,Vedi,Economic_support,3449188.2075885395,AMD,True,Both,All,All,sample_budget_2024.xlsx
+2024,Armenia,Ararat,Vedi,Economic_support,839529.9361084653,AMD,True,Women,Middle,With disability,sample_budget_2024.xlsx
+2024,Armenia,Ararat,Vedi,Governance_participation,1911703.5788584407,AMD,False,Both,All,All,sample_budget_2024.xlsx
+2020,Armenia,Ararat,Artashat,Education,1545355.701484157,AMD,False,Both,All,All,sample_budget_2020.xlsx
+2020,Armenia,Ararat,Artashat,Health,1669824.3948163076,AMD,False,Both,All,All,sample_budget_2020.xlsx
+2020,Armenia,Ararat,Artashat,Health,359324.233782475,AMD,True,Both,Low,All,sample_budget_2020.xlsx
+2020,Armenia,Ararat,Artashat,GBV_response,859844.9244967081,AMD,False,Both,All,All,sample_budget_2020.xlsx
+2020,Armenia,Ararat,Artashat,Economic_support,1379263.7320409564,AMD,False,Both,All,All,sample_budget_2020.xlsx
+2020,Armenia,Ararat,Artashat,Economic_support,786699.0396553339,AMD,True,Both,Middle,With disability,sample_budget_2020.xlsx
+2020,Armenia,Ararat,Artashat,Governance_participation,1749160.0952605042,AMD,False,Both,All,All,sample_budget_2020.xlsx
+2020,Armenia,Ararat,Artashat,Governance_participation,763289.5783256146,AMD,True,Women,Middle,No disability,sample_budget_2020.xlsx
+2021,Armenia,Ararat,Artashat,Education,4484537.565782081,AMD,True,Both,All,All,sample_budget_2021.xlsx
+2021,Armenia,Ararat,Artashat,Education,1001278.9986877198,AMD,True,Women,Low,All,sample_budget_2021.xlsx
+2021,Armenia,Ararat,Artashat,Health,1993255.0415129398,AMD,False,Both,All,All,sample_budget_2021.xlsx
+2021,Armenia,Ararat,Artashat,Health,836321.8502238384,AMD,True,Women,Low,With disability,sample_budget_2021.xlsx
+2021,Armenia,Ararat,Artashat,GBV_response,3318805.5334695103,AMD,True,Both,All,All,sample_budget_2021.xlsx
+2021,Armenia,Ararat,Artashat,Economic_support,2585702.9355499344,AMD,True,Both,All,All,sample_budget_2021.xlsx
+2021,Armenia,Ararat,Artashat,Economic_support,1041236.5343707341,AMD,True,Women,Middle,With disability,sample_budget_2021.xlsx
+2021,Armenia,Ararat,Artashat,Governance_participation,3092280.281259057,AMD,True,Both,All,All,sample_budget_2021.xlsx
+2021,Armenia,Ararat,Artashat,Governance_participation,1543559.2621474285,AMD,True,Women,Low,All,sample_budget_2021.xlsx
+2022,Armenia,Ararat,Artashat,Education,1217375.8652504897,AMD,False,Both,All,All,sample_budget_2022.xlsx
+2022,Armenia,Ararat,Artashat,Education,198676.49084894537,AMD,True,Both,Low,With disability,sample_budget_2022.xlsx
+2022,Armenia,Ararat,Artashat,Health,965914.0722156131,AMD,False,Both,All,All,sample_budget_2022.xlsx
+2022,Armenia,Ararat,Artashat,Health,287781.1019303928,AMD,True,Both,All,All,sample_budget_2022.xlsx
+2022,Armenia,Ararat,Artashat,GBV_response,1608803.9543972702,AMD,False,Both,All,All,sample_budget_2022.xlsx
+2022,Armenia,Ararat,Artashat,GBV_response,503957.71201004734,AMD,True,Women,Low,No disability,sample_budget_2022.xlsx
+2022,Armenia,Ararat,Artashat,Economic_support,1948590.2971951817,AMD,False,Both,All,All,sample_budget_2022.xlsx
+2022,Armenia,Ararat,Artashat,Governance_participation,1706497.8897652822,AMD,True,Both,All,All,sample_budget_2022.xlsx
+2022,Armenia,Ararat,Artashat,Governance_participation,319209.68155870726,AMD,True,Women,Low,With disability,sample_budget_2022.xlsx
+2023,Armenia,Ararat,Artashat,Education,1742247.4563083998,AMD,False,Both,All,All,sample_budget_2023.xlsx
+2023,Armenia,Ararat,Artashat,Education,618480.8129227648,AMD,True,Women,Middle,With disability,sample_budget_2023.xlsx
+2023,Armenia,Ararat,Artashat,Health,1388225.5626441983,AMD,False,Both,All,All,sample_budget_2023.xlsx
+2023,Armenia,Ararat,Artashat,Health,779097.7613224753,AMD,True,Women,Low,All,sample_budget_2023.xlsx
+2023,Armenia,Ararat,Artashat,GBV_response,1210743.2700783664,AMD,False,Both,All,All,sample_budget_2023.xlsx
+2023,Armenia,Ararat,Artashat,GBV_response,305029.4157680719,AMD,True,Both,Low,With disability,sample_budget_2023.xlsx
+2023,Armenia,Ararat,Artashat,Economic_support,2468918.763265656,AMD,False,Both,All,All,sample_budget_2023.xlsx
+2023,Armenia,Ararat,Artashat,Economic_support,407060.490948112,AMD,True,Both,Middle,With disability,sample_budget_2023.xlsx
+2023,Armenia,Ararat,Artashat,Governance_participation,1017548.6537726618,AMD,False,Both,All,All,sample_budget_2023.xlsx
+2023,Armenia,Ararat,Artashat,Governance_participation,624795.2372965191,AMD,True,Both,Low,All,sample_budget_2023.xlsx
+2024,Armenia,Ararat,Artashat,Education,1258766.420737062,AMD,False,Both,All,All,sample_budget_2024.xlsx
+2024,Armenia,Ararat,Artashat,Education,541095.0177261014,AMD,True,Women,Low,With disability,sample_budget_2024.xlsx
+2024,Armenia,Ararat,Artashat,Health,1442033.4887713082,AMD,False,Both,All,All,sample_budget_2024.xlsx
+2024,Armenia,Ararat,Artashat,Health,434879.97774847504,AMD,True,Women,All,All,sample_budget_2024.xlsx
+2024,Armenia,Ararat,Artashat,GBV_response,1473195.0967855498,AMD,False,Both,All,All,sample_budget_2024.xlsx
+2024,Armenia,Ararat,Artashat,Economic_support,1225037.0899660261,AMD,False,Both,All,All,sample_budget_2024.xlsx
+2024,Armenia,Ararat,Artashat,Economic_support,398056.6078135159,AMD,True,Women,Middle,All,sample_budget_2024.xlsx
+2024,Armenia,Ararat,Artashat,Governance_participation,1543667.30963052,AMD,False,Both,All,All,sample_budget_2024.xlsx
+2024,Armenia,Ararat,Artashat,Governance_participation,656420.1134123475,AMD,True,Both,Middle,All,sample_budget_2024.xlsx
+2020,Armenia,Shirak,Gyumri,Education,2296689.8423705115,AMD,False,Both,All,All,sample_budget_2020.xlsx
+2020,Armenia,Shirak,Gyumri,Health,2754345.868546172,AMD,True,Both,All,All,sample_budget_2020.xlsx
+2020,Armenia,Shirak,Gyumri,Health,1236393.3758031295,AMD,True,Women,Middle,With disability,sample_budget_2020.xlsx
+2020,Armenia,Shirak,Gyumri,GBV_response,2187632.7660287437,AMD,True,Both,All,All,sample_budget_2020.xlsx
+2020,Armenia,Shirak,Gyumri,Economic_support,2702464.1808876083,AMD,True,Both,All,All,sample_budget_2020.xlsx
+2020,Armenia,Shirak,Gyumri,Governance_participation,1541587.632244246,AMD,False,Both,All,All,sample_budget_2020.xlsx
+2020,Armenia,Shirak,Gyumri,Governance_participation,395343.7251428281,AMD,True,Women,Middle,All,sample_budget_2020.xlsx
+2021,Armenia,Shirak,Gyumri,Education,968020.5289075482,AMD,False,Both,All,All,sample_budget_2021.xlsx
+2021,Armenia,Shirak,Gyumri,Education,215592.3605209999,AMD,True,Women,Low,With disability,sample_budget_2021.xlsx
+2021,Armenia,Shirak,Gyumri,Health,2521590.368964305,AMD,False,Both,All,All,sample_budget_2021.xlsx
+2021,Armenia,Shirak,Gyumri,Health,889589.400665906,AMD,True,Women,Low,All,sample_budget_2021.xlsx
+2021,Armenia,Shirak,Gyumri,GBV_response,1533722.4040429124,AMD,False,Both,All,All,sample_budget_2021.xlsx
+2021,Armenia,Shirak,Gyumri,GBV_response,687332.1061743443,AMD,True,Women,All,All,sample_budget_2021.xlsx
+2021,Armenia,Shirak,Gyumri,Economic_support,2340872.359842993,AMD,False,Both,All,All,sample_budget_2021.xlsx
+2021,Armenia,Shirak,Gyumri,Economic_support,729725.04760318,AMD,True,Women,Middle,No disability,sample_budget_2021.xlsx
+2021,Armenia,Shirak,Gyumri,Governance_participation,1878154.2319638357,AMD,False,Both,All,All,sample_budget_2021.xlsx
+2021,Armenia,Shirak,Gyumri,Governance_participation,378635.0737470792,AMD,True,Both,Low,All,sample_budget_2021.xlsx
+2022,Armenia,Shirak,Gyumri,Education,2822660.065244556,AMD,True,Both,All,All,sample_budget_2022.xlsx
+2022,Armenia,Shirak,Gyumri,Education,526122.8903658782,AMD,True,Women,Low,With disability,sample_budget_2022.xlsx
+2022,Armenia,Shirak,Gyumri,Health,2189596.5554553005,AMD,False,Both,All,All,sample_budget_2022.xlsx
+2022,Armenia,Shirak,Gyumri,GBV_response,2994248.6339565124,AMD,False,Both,All,All,sample_budget_2022.xlsx
+2022,Armenia,Shirak,Gyumri,Economic_support,2751363.7024019468,AMD,False,Both,All,All,sample_budget_2022.xlsx
+2022,Armenia,Shirak,Gyumri,Economic_support,1112081.4365314434,AMD,True,Women,Low,All,sample_budget_2022.xlsx
+2022,Armenia,Shirak,Gyumri,Governance_participation,2893707.3182576303,AMD,False,Both,All,All,sample_budget_2022.xlsx
+2022,Armenia,Shirak,Gyumri,Governance_participation,619024.0307911,AMD,True,Women,Low,With disability,sample_budget_2022.xlsx
+2023,Armenia,Shirak,Gyumri,Education,2169802.5082499115,AMD,False,Both,All,All,sample_budget_2023.xlsx
+2023,Armenia,Shirak,Gyumri,Health,2014943.5294698656,AMD,False,Both,All,All,sample_budget_2023.xlsx
+2023,Armenia,Shirak,Gyumri,GBV_response,1849744.2580990293,AMD,True,Both,All,All,sample_budget_2023.xlsx
+2023,Armenia,Shirak,Gyumri,GBV_response,664796.6013480707,AMD,True,Women,Low,With disability,sample_budget_2023.xlsx
+2023,Armenia,Shirak,Gyumri,Economic_support,2015850.5043193614,AMD,False,Both,All,All,sample_budget_2023.xlsx
+2023,Armenia,Shirak,Gyumri,Economic_support,845745.0413642033,AMD,True,Women,Low,With disability,sample_budget_2023.xlsx
+2023,Armenia,Shirak,Gyumri,Governance_participation,1888060.82264781,AMD,False,Both,All,All,sample_budget_2023.xlsx
+2023,Armenia,Shirak,Gyumri,Governance_participation,1030564.8394855964,AMD,True,Women,Middle,With disability,sample_budget_2023.xlsx
+2024,Armenia,Shirak,Gyumri,Education,1596068.640663917,AMD,False,Both,All,All,sample_budget_2024.xlsx
+2024,Armenia,Shirak,Gyumri,Education,359981.668781589,AMD,True,Women,Middle,With disability,sample_budget_2024.xlsx
+2024,Armenia,Shirak,Gyumri,Health,2283965.2074620677,AMD,False,Both,All,All,sample_budget_2024.xlsx
+2024,Armenia,Shirak,Gyumri,GBV_response,1416325.2338677265,AMD,False,Both,All,All,sample_budget_2024.xlsx
+2024,Armenia,Shirak,Gyumri,Economic_support,1931674.5125196846,AMD,False,Both,All,All,sample_budget_2024.xlsx
+2024,Armenia,Shirak,Gyumri,Economic_support,411626.8540448544,AMD,True,Women,Middle,With disability,sample_budget_2024.xlsx
+2024,Armenia,Shirak,Gyumri,Governance_participation,1757849.1311619063,AMD,False,Both,All,All,sample_budget_2024.xlsx
+2020,Armenia,Shirak,Ashot,Education,1865633.3590027743,AMD,False,Both,All,All,sample_budget_2020.xlsx
+2020,Armenia,Shirak,Ashot,Education,401457.7805419319,AMD,True,Both,Middle,With disability,sample_budget_2020.xlsx
+2020,Armenia,Shirak,Ashot,Health,2482036.112686658,AMD,True,Both,All,All,sample_budget_2020.xlsx
+2020,Armenia,Shirak,Ashot,Health,412993.6928000386,AMD,True,Women,Middle,All,sample_budget_2020.xlsx
+2020,Armenia,Shirak,Ashot,GBV_response,2169605.246318728,AMD,False,Both,All,All,sample_budget_2020.xlsx
+2020,Armenia,Shirak,Ashot,GBV_response,1119433.7011477817,AMD,True,Both,Low,All,sample_budget_2020.xlsx
+2020,Armenia,Shirak,Ashot,Economic_support,2265744.8256326215,AMD,True,Both,All,All,sample_budget_2020.xlsx
+2020,Armenia,Shirak,Ashot,Economic_support,657714.2629479518,AMD,True,Women,Low,With disability,sample_budget_2020.xlsx
+2020,Armenia,Shirak,Ashot,Governance_participation,2704590.749696091,AMD,True,Both,All,All,sample_budget_2020.xlsx
+2020,Armenia,Shirak,Ashot,Governance_participation,973456.2672349126,AMD,True,Women,Low,All,sample_budget_2020.xlsx
+2021,Armenia,Shirak,Ashot,Education,2793791.18065149,AMD,False,Both,All,All,sample_budget_2021.xlsx
+2021,Armenia,Shirak,Ashot,Education,739624.250827937,AMD,True,Both,All,All,sample_budget_2021.xlsx
+2021,Armenia,Shirak,Ashot,Health,1628121.763425549,AMD,True,Both,All,All,sample_budget_2021.xlsx
+2021,Armenia,Shirak,Ashot,Health,302505.74468361516,AMD,True,Women,Low,No disability,sample_budget_2021.xlsx
+2021,Armenia,Shirak,Ashot,GBV_response,2750270.1153840674,AMD,False,Both,All,All,sample_budget_2021.xlsx
+2021,Armenia,Shirak,Ashot,GBV_response,549459.2209434665,AMD,True,Women,Low,All,sample_budget_2021.xlsx
+2021,Armenia,Shirak,Ashot,Economic_support,1160743.5130097957,AMD,False,Both,All,All,sample_budget_2021.xlsx
+2021,Armenia,Shirak,Ashot,Economic_support,463551.5423832335,AMD,True,Both,Low,With disability,sample_budget_2021.xlsx
+2021,Armenia,Shirak,Ashot,Governance_participation,1919030.8641665666,AMD,False,Both,All,All,sample_budget_2021.xlsx
+2022,Armenia,Shirak,Ashot,Education,1918209.4706146664,AMD,False,Both,All,All,sample_budget_2022.xlsx
+2022,Armenia,Shirak,Ashot,Education,343779.1357102319,AMD,True,Women,Middle,With disability,sample_budget_2022.xlsx
+2022,Armenia,Shirak,Ashot,Health,1913098.3201900593,AMD,True,Both,All,All,sample_budget_2022.xlsx
+2022,Armenia,Shirak,Ashot,Health,329213.06644759665,AMD,True,Women,Low,All,sample_budget_2022.xlsx
+2022,Armenia,Shirak,Ashot,GBV_response,2181347.0151300267,AMD,False,Both,All,All,sample_budget_2022.xlsx
+2022,Armenia,Shirak,Ashot,Economic_support,1677284.921114101,AMD,False,Both,All,All,sample_budget_2022.xlsx
+2022,Armenia,Shirak,Ashot,Governance_participation,1452349.3375330644,AMD,True,Both,All,All,sample_budget_2022.xlsx
+2022,Armenia,Shirak,Ashot,Governance_participation,396097.47806495224,AMD,True,Women,Low,With disability,sample_budget_2022.xlsx
+2023,Armenia,Shirak,Ashot,Education,2117434.5153464144,AMD,False,Both,All,All,sample_budget_2023.xlsx
+2023,Armenia,Shirak,Ashot,Health,2500041.4670038214,AMD,True,Both,All,All,sample_budget_2023.xlsx
+2023,Armenia,Shirak,Ashot,GBV_response,3218129.7680911105,AMD,False,Both,All,All,sample_budget_2023.xlsx
+2023,Armenia,Shirak,Ashot,Economic_support,2876947.6015543384,AMD,False,Both,All,All,sample_budget_2023.xlsx
+2023,Armenia,Shirak,Ashot,Economic_support,1403099.6609919367,AMD,True,Both,Low,All,sample_budget_2023.xlsx
+2023,Armenia,Shirak,Ashot,Governance_participation,2499923.2665406484,AMD,False,Both,All,All,sample_budget_2023.xlsx
+2023,Armenia,Shirak,Ashot,Governance_participation,549552.9342787762,AMD,True,Women,Low,No disability,sample_budget_2023.xlsx
+2024,Armenia,Shirak,Ashot,Education,3359730.658746893,AMD,False,Both,All,All,sample_budget_2024.xlsx
+2024,Armenia,Shirak,Ashot,Education,1405415.2725875727,AMD,True,Both,Low,With disability,sample_budget_2024.xlsx
+2024,Armenia,Shirak,Ashot,Health,2728438.1256995467,AMD,False,Both,All,All,sample_budget_2024.xlsx
+2024,Armenia,Shirak,Ashot,Health,642125.5450131003,AMD,True,Both,Middle,All,sample_budget_2024.xlsx
+2024,Armenia,Shirak,Ashot,GBV_response,3180114.0047836634,AMD,False,Both,All,All,sample_budget_2024.xlsx
+2024,Armenia,Shirak,Ashot,GBV_response,605769.4579464286,AMD,True,Both,Middle,All,sample_budget_2024.xlsx
+2024,Armenia,Shirak,Ashot,Economic_support,3003381.0066357404,AMD,False,Both,All,All,sample_budget_2024.xlsx
+2024,Armenia,Shirak,Ashot,Governance_participation,2009793.4736771446,AMD,False,Both,All,All,sample_budget_2024.xlsx
+2024,Armenia,Shirak,Ashot,Governance_participation,757815.1059733309,AMD,True,Women,All,With disability,sample_budget_2024.xlsx
+2020,Colombia,Bogota,Teusaquillo,Education,3134096.733306032,COP,False,Both,All,All,sample_budget_2020.xlsx
+2020,Colombia,Bogota,Teusaquillo,Health,2947605.3118029325,COP,False,Both,All,All,sample_budget_2020.xlsx
+2020,Colombia,Bogota,Teusaquillo,Health,1439280.078748936,COP,True,Both,Low,All,sample_budget_2020.xlsx
+2020,Colombia,Bogota,Teusaquillo,GBV_response,1707334.303794573,COP,False,Both,All,All,sample_budget_2020.xlsx
+2020,Colombia,Bogota,Teusaquillo,Economic_support,2120707.083294536,COP,False,Both,All,All,sample_budget_2020.xlsx
+2020,Colombia,Bogota,Teusaquillo,Economic_support,654700.2269082972,COP,True,Women,All,With disability,sample_budget_2020.xlsx
+2020,Colombia,Bogota,Teusaquillo,Governance_participation,2084474.6213764055,COP,True,Both,All,All,sample_budget_2020.xlsx
+2021,Colombia,Bogota,Teusaquillo,Education,1901062.7070225545,COP,True,Both,All,All,sample_budget_2021.xlsx
+2021,Colombia,Bogota,Teusaquillo,Education,648341.4886653512,COP,True,Women,Low,No disability,sample_budget_2021.xlsx
+2021,Colombia,Bogota,Teusaquillo,Health,1524814.9649090725,COP,True,Both,All,All,sample_budget_2021.xlsx
+2021,Colombia,Bogota,Teusaquillo,GBV_response,1334515.5560536205,COP,False,Both,All,All,sample_budget_2021.xlsx
+2021,Colombia,Bogota,Teusaquillo,GBV_response,652506.3431936547,COP,True,Women,Low,All,sample_budget_2021.xlsx
+2021,Colombia,Bogota,Teusaquillo,Economic_support,974428.0904198228,COP,True,Both,All,All,sample_budget_2021.xlsx
+2021,Colombia,Bogota,Teusaquillo,Economic_support,329226.7323980292,COP,True,Women,Low,No disability,sample_budget_2021.xlsx
+2021,Colombia,Bogota,Teusaquillo,Governance_participation,1840224.4075311974,COP,False,Both,All,All,sample_budget_2021.xlsx
+2021,Colombia,Bogota,Teusaquillo,Governance_participation,384937.3461342525,COP,True,Both,Low,All,sample_budget_2021.xlsx
+2022,Colombia,Bogota,Teusaquillo,Education,1568882.5757772143,COP,False,Both,All,All,sample_budget_2022.xlsx
+2022,Colombia,Bogota,Teusaquillo,Education,541405.7327246658,COP,True,Women,Middle,All,sample_budget_2022.xlsx
+2022,Colombia,Bogota,Teusaquillo,Health,1687859.9139773902,COP,True,Both,All,All,sample_budget_2022.xlsx
+2022,Colombia,Bogota,Teusaquillo,Health,615934.059857691,COP,True,Women,All,All,sample_budget_2022.xlsx
+2022,Colombia,Bogota,Teusaquillo,GBV_response,1349219.2832493759,COP,False,Both,All,All,sample_budget_2022.xlsx
+2022,Colombia,Bogota,Teusaquillo,GBV_response,425067.14082827634,COP,True,Women,Low,All,sample_budget_2022.xlsx
+2022,Colombia,Bogota,Teusaquillo,Economic_support,705612.095882102,COP,True,Both,All,All,sample_budget_2022.xlsx
+2022,Colombia,Bogota,Teusaquillo,Governance_participation,1959177.075010023,COP,False,Both,All,All,sample_budget_2022.xlsx
+2023,Colombia,Bogota,Teusaquillo,Education,2849968.900175756,COP,True,Both,All,All,sample_budget_2023.xlsx
+2023,Colombia,Bogota,Teusaquillo,Education,1649439.9372876387,COP,True,Women,Middle,All,sample_budget_2023.xlsx
+2023,Colombia,Bogota,Teusaquillo,Health,4141080.8717947905,COP,False,Both,All,All,sample_budget_2023.xlsx
+2023,Colombia,Bogota,Teusaquillo,GBV_response,2870176.1150977286,COP,False,Both,All,All,sample_budget_2023.xlsx
+2023,Colombia,Bogota,Teusaquillo,Economic_support,3968361.9332443764,COP,False,Both,All,All,sample_budget_2023.xlsx
+2023,Colombia,Bogota,Teusaquillo,Economic_support,1288411.3091187305,COP,True,Both,Middle,With disability,sample_budget_2023.xlsx
+2023,Colombia,Bogota,Teusaquillo,Governance_participation,2386004.0029643495,COP,True,Both,All,All,sample_budget_2023.xlsx
+2024,Colombia,Bogota,Teusaquillo,Education,3178101.5646138517,COP,False,Both,All,All,sample_budget_2024.xlsx
+2024,Colombia,Bogota,Teusaquillo,Education,531566.0184330617,COP,True,Women,Middle,All,sample_budget_2024.xlsx
+2024,Colombia,Bogota,Teusaquillo,Health,1987339.8761737228,COP,False,Both,All,All,sample_budget_2024.xlsx
+2024,Colombia,Bogota,Teusaquillo,Health,581528.6851584197,COP,True,Women,Low,All,sample_budget_2024.xlsx
+2024,Colombia,Bogota,Teusaquillo,GBV_response,3407289.1526931124,COP,False,Both,All,All,sample_budget_2024.xlsx
+2024,Colombia,Bogota,Teusaquillo,Economic_support,1883986.9234191643,COP,True,Both,All,All,sample_budget_2024.xlsx
+2024,Colombia,Bogota,Teusaquillo,Economic_support,508902.9386212834,COP,True,Both,Middle,With disability,sample_budget_2024.xlsx
+2024,Colombia,Bogota,Teusaquillo,Governance_participation,1666962.1597014237,COP,True,Both,All,All,sample_budget_2024.xlsx
+2024,Colombia,Bogota,Teusaquillo,Governance_participation,834189.2126506113,COP,True,Both,All,All,sample_budget_2024.xlsx
+2020,Colombia,Bogota,Bosa,Education,1364777.6082986868,COP,True,Both,All,All,sample_budget_2020.xlsx
+2020,Colombia,Bogota,Bosa,Education,608072.1333844557,COP,True,Women,Low,All,sample_budget_2020.xlsx
+2020,Colombia,Bogota,Bosa,Health,2026096.9037709842,COP,False,Both,All,All,sample_budget_2020.xlsx
+2020,Colombia,Bogota,Bosa,Health,929525.2690156414,COP,True,Women,Middle,With disability,sample_budget_2020.xlsx
+2020,Colombia,Bogota,Bosa,GBV_response,2353345.295712401,COP,False,Both,All,All,sample_budget_2020.xlsx
+2020,Colombia,Bogota,Bosa,Economic_support,1926038.935354959,COP,True,Both,All,All,sample_budget_2020.xlsx
+2020,Colombia,Bogota,Bosa,Governance_participation,2922882.352773482,COP,False,Both,All,All,sample_budget_2020.xlsx
+2021,Colombia,Bogota,Bosa,Education,3149686.284485246,COP,False,Both,All,All,sample_budget_2021.xlsx
+2021,Colombia,Bogota,Bosa,Health,2717891.66763,COP,True,Both,All,All,sample_budget_2021.xlsx
+2021,Colombia,Bogota,Bosa,Health,881322.6020217313,COP,True,Women,Low,No disability,sample_budget_2021.xlsx
+2021,Colombia,Bogota,Bosa,GBV_response,2664837.8485722956,COP,False,Both,All,All,sample_budget_2021.xlsx
+2021,Colombia,Bogota,Bosa,GBV_response,559504.9066792604,COP,True,Women,Middle,With disability,sample_budget_2021.xlsx
+2021,Colombia,Bogota,Bosa,Economic_support,2390026.357434259,COP,False,Both,All,All,sample_budget_2021.xlsx
+2021,Colombia,Bogota,Bosa,Governance_participation,2524790.948969446,COP,False,Both,All,All,sample_budget_2021.xlsx
+2021,Colombia,Bogota,Bosa,Governance_participation,1174086.331484206,COP,True,Both,All,All,sample_budget_2021.xlsx
+2022,Colombia,Bogota,Bosa,Education,1274382.3308865218,COP,False,Both,All,All,sample_budget_2022.xlsx
+2022,Colombia,Bogota,Bosa,Education,286670.8220048537,COP,True,Women,Low,All,sample_budget_2022.xlsx
+2022,Colombia,Bogota,Bosa,Health,1244633.9435055265,COP,False,Both,All,All,sample_budget_2022.xlsx
+2022,Colombia,Bogota,Bosa,GBV_response,781107.5575852608,COP,False,Both,All,All,sample_budget_2022.xlsx
+2022,Colombia,Bogota,Bosa,GBV_response,318108.0672660664,COP,True,Women,Low,No disability,sample_budget_2022.xlsx
+2022,Colombia,Bogota,Bosa,Economic_support,1852153.9931783236,COP,False,Both,All,All,sample_budget_2022.xlsx
+2022,Colombia,Bogota,Bosa,Economic_support,661182.5687165849,COP,True,Women,Low,All,sample_budget_2022.xlsx
+2022,Colombia,Bogota,Bosa,Governance_participation,1264493.658093701,COP,False,Both,All,All,sample_budget_2022.xlsx
+2022,Colombia,Bogota,Bosa,Governance_participation,289641.23997582373,COP,True,Women,Low,All,sample_budget_2022.xlsx
+2023,Colombia,Bogota,Bosa,Education,2099524.440012645,COP,False,Both,All,All,sample_budget_2023.xlsx
+2023,Colombia,Bogota,Bosa,Education,760819.6661174509,COP,True,Women,Low,With disability,sample_budget_2023.xlsx
+2023,Colombia,Bogota,Bosa,Health,1738588.6699982244,COP,True,Both,All,All,sample_budget_2023.xlsx
+2023,Colombia,Bogota,Bosa,Health,300004.4101367442,COP,True,Women,Low,With disability,sample_budget_2023.xlsx
+2023,Colombia,Bogota,Bosa,GBV_response,1128983.0328268555,COP,True,Both,All,All,sample_budget_2023.xlsx
+2023,Colombia,Bogota,Bosa,GBV_response,260275.80951673686,COP,True,Women,Middle,With disability,sample_budget_2023.xlsx
+2023,Colombia,Bogota,Bosa,Economic_support,1280159.1824677766,COP,False,Both,All,All,sample_budget_2023.xlsx
+2023,Colombia,Bogota,Bosa,Economic_support,304988.05234850344,COP,True,Women,Low,All,sample_budget_2023.xlsx
+2023,Colombia,Bogota,Bosa,Governance_participation,1312355.2119170674,COP,False,Both,All,All,sample_budget_2023.xlsx
+2024,Colombia,Bogota,Bosa,Education,1793892.2679968555,COP,False,Both,All,All,sample_budget_2024.xlsx
+2024,Colombia,Bogota,Bosa,Education,789639.2857284229,COP,True,Women,Middle,With disability,sample_budget_2024.xlsx
+2024,Colombia,Bogota,Bosa,Health,2405519.6093477653,COP,False,Both,All,All,sample_budget_2024.xlsx
+2024,Colombia,Bogota,Bosa,Health,952426.3337310664,COP,True,Women,Low,No disability,sample_budget_2024.xlsx
+2024,Colombia,Bogota,Bosa,GBV_response,2704816.8632974327,COP,False,Both,All,All,sample_budget_2024.xlsx
+2024,Colombia,Bogota,Bosa,GBV_response,1077007.1536267095,COP,True,Both,Low,With disability,sample_budget_2024.xlsx
+2024,Colombia,Bogota,Bosa,Economic_support,3424423.5813727845,COP,False,Both,All,All,sample_budget_2024.xlsx
+2024,Colombia,Bogota,Bosa,Economic_support,819668.6473530552,COP,True,Women,Low,All,sample_budget_2024.xlsx
+2024,Colombia,Bogota,Bosa,Governance_participation,2524390.1626287834,COP,False,Both,All,All,sample_budget_2024.xlsx
+2020,Colombia,Antioquia,Medellin_Centro,Education,3588556.279264323,COP,True,Both,All,All,sample_budget_2020.xlsx
+2020,Colombia,Antioquia,Medellin_Centro,Education,812162.4488818133,COP,True,Women,Low,With disability,sample_budget_2020.xlsx
+2020,Colombia,Antioquia,Medellin_Centro,Health,2592113.703793493,COP,False,Both,All,All,sample_budget_2020.xlsx
+2020,Colombia,Antioquia,Medellin_Centro,GBV_response,1143644.7595500918,COP,False,Both,All,All,sample_budget_2020.xlsx
+2020,Colombia,Antioquia,Medellin_Centro,GBV_response,339422.68650087767,COP,True,Women,Middle,All,sample_budget_2020.xlsx
+2020,Colombia,Antioquia,Medellin_Centro,Economic_support,2420916.4045547755,COP,False,Both,All,All,sample_budget_2020.xlsx
+2020,Colombia,Antioquia,Medellin_Centro,Governance_participation,1812015.1036138125,COP,False,Both,All,All,sample_budget_2020.xlsx
+2020,Colombia,Antioquia,Medellin_Centro,Governance_participation,723638.441037558,COP,True,Both,Low,With disability,sample_budget_2020.xlsx
+2021,Colombia,Antioquia,Medellin_Centro,Education,2536200.318902453,COP,False,Both,All,All,sample_budget_2021.xlsx
+2021,Colombia,Antioquia,Medellin_Centro,Education,561386.2341622562,COP,True,Both,Low,All,sample_budget_2021.xlsx
+2021,Colombia,Antioquia,Medellin_Centro,Health,944736.4331779858,COP,False,Both,All,All,sample_budget_2021.xlsx
+2021,Colombia,Antioquia,Medellin_Centro,Health,521160.86346833454,COP,True,Women,Low,With disability,sample_budget_2021.xlsx
+2021,Colombia,Antioquia,Medellin_Centro,GBV_response,1353849.9641178898,COP,True,Both,All,All,sample_budget_2021.xlsx
+2021,Colombia,Antioquia,Medellin_Centro,Economic_support,2594082.042138376,COP,False,Both,All,All,sample_budget_2021.xlsx
+2021,Colombia,Antioquia,Medellin_Centro,Economic_support,587397.1106107867,COP,True,Women,Low,All,sample_budget_2021.xlsx
+2021,Colombia,Antioquia,Medellin_Centro,Governance_participation,950629.6481784887,COP,False,Both,All,All,sample_budget_2021.xlsx
+2021,Colombia,Antioquia,Medellin_Centro,Governance_participation,190059.9518688157,COP,True,Women,Middle,No disability,sample_budget_2021.xlsx
+2022,Colombia,Antioquia,Medellin_Centro,Education,2359297.469201104,COP,False,Both,All,All,sample_budget_2022.xlsx
+2022,Colombia,Antioquia,Medellin_Centro,Education,763528.4404564622,COP,True,Women,Middle,No disability,sample_budget_2022.xlsx
+2022,Colombia,Antioquia,Medellin_Centro,Health,2424018.9498701957,COP,False,Both,All,All,sample_budget_2022.xlsx
+2022,Colombia,Antioquia,Medellin_Centro,Health,1061849.1122184712,COP,True,Women,Middle,With disability,sample_budget_2022.xlsx
+2022,Colombia,Antioquia,Medellin_Centro,GBV_response,2166470.0795932813,COP,True,Both,All,All,sample_budget_2022.xlsx
+2022,Colombia,Antioquia,Medellin_Centro,Economic_support,1878087.2411011364,COP,False,Both,All,All,sample_budget_2022.xlsx
+2022,Colombia,Antioquia,Medellin_Centro,Economic_support,646803.1888860431,COP,True,Both,Middle,All,sample_budget_2022.xlsx
+2022,Colombia,Antioquia,Medellin_Centro,Governance_participation,2927479.0659503597,COP,False,Both,All,All,sample_budget_2022.xlsx
+2023,Colombia,Antioquia,Medellin_Centro,Education,1633956.651382733,COP,False,Both,All,All,sample_budget_2023.xlsx
+2023,Colombia,Antioquia,Medellin_Centro,Education,746753.7368999401,COP,True,Women,All,With disability,sample_budget_2023.xlsx
+2023,Colombia,Antioquia,Medellin_Centro,Health,1827848.5572716647,COP,False,Both,All,All,sample_budget_2023.xlsx
+2023,Colombia,Antioquia,Medellin_Centro,Health,848569.244215043,COP,True,Women,All,All,sample_budget_2023.xlsx
+2023,Colombia,Antioquia,Medellin_Centro,GBV_response,2012120.8979756795,COP,False,Both,All,All,sample_budget_2023.xlsx
+2023,Colombia,Antioquia,Medellin_Centro,GBV_response,617949.9491690764,COP,True,Women,Low,With disability,sample_budget_2023.xlsx
+2023,Colombia,Antioquia,Medellin_Centro,Economic_support,2478745.2466202346,COP,False,Both,All,All,sample_budget_2023.xlsx
+2023,Colombia,Antioquia,Medellin_Centro,Economic_support,529830.9411007762,COP,True,Both,Low,All,sample_budget_2023.xlsx
+2023,Colombia,Antioquia,Medellin_Centro,Governance_participation,1466566.6287138325,COP,False,Both,All,All,sample_budget_2023.xlsx
+2023,Colombia,Antioquia,Medellin_Centro,Governance_participation,364964.55714350037,COP,True,Women,Middle,All,sample_budget_2023.xlsx
+2024,Colombia,Antioquia,Medellin_Centro,Education,1317830.5449907333,COP,False,Both,All,All,sample_budget_2024.xlsx
+2024,Colombia,Antioquia,Medellin_Centro,Health,761862.2438364786,COP,False,Both,All,All,sample_budget_2024.xlsx
+2024,Colombia,Antioquia,Medellin_Centro,Health,170769.22650519686,COP,True,Women,Low,All,sample_budget_2024.xlsx
+2024,Colombia,Antioquia,Medellin_Centro,GBV_response,1568434.8569697326,COP,True,Both,All,All,sample_budget_2024.xlsx
+2024,Colombia,Antioquia,Medellin_Centro,GBV_response,479151.3022194904,COP,True,Women,Low,All,sample_budget_2024.xlsx
+2024,Colombia,Antioquia,Medellin_Centro,Economic_support,1946320.2858625809,COP,False,Both,All,All,sample_budget_2024.xlsx
+2024,Colombia,Antioquia,Medellin_Centro,Economic_support,549620.6077912317,COP,True,Both,All,All,sample_budget_2024.xlsx
+2024,Colombia,Antioquia,Medellin_Centro,Governance_participation,1602268.390545787,COP,False,Both,All,All,sample_budget_2024.xlsx
+2024,Colombia,Antioquia,Medellin_Centro,Governance_participation,478425.8696310637,COP,True,Both,Low,With disability,sample_budget_2024.xlsx
+2020,Colombia,Antioquia,Medellin_Oeste,Education,989897.5813760352,COP,False,Both,All,All,sample_budget_2020.xlsx
+2020,Colombia,Antioquia,Medellin_Oeste,Education,450854.071769556,COP,True,Women,Middle,All,sample_budget_2020.xlsx
+2020,Colombia,Antioquia,Medellin_Oeste,Health,2139863.1184781916,COP,False,Both,All,All,sample_budget_2020.xlsx
+2020,Colombia,Antioquia,Medellin_Oeste,Health,724225.4839954501,COP,True,Both,Low,All,sample_budget_2020.xlsx
+2020,Colombia,Antioquia,Medellin_Oeste,GBV_response,1584085.854576424,COP,False,Both,All,All,sample_budget_2020.xlsx
+2020,Colombia,Antioquia,Medellin_Oeste,GBV_response,461636.28725100815,COP,True,Both,Middle,All,sample_budget_2020.xlsx
+2020,Colombia,Antioquia,Medellin_Oeste,Economic_support,1012488.4247499226,COP,False,Both,All,All,sample_budget_2020.xlsx
+2020,Colombia,Antioquia,Medellin_Oeste,Governance_participation,1541509.1280582538,COP,False,Both,All,All,sample_budget_2020.xlsx
+2020,Colombia,Antioquia,Medellin_Oeste,Governance_participation,414934.4873855153,COP,True,Women,All,All,sample_budget_2020.xlsx
+2021,Colombia,Antioquia,Medellin_Oeste,Education,1345972.6747166836,COP,False,Both,All,All,sample_budget_2021.xlsx
+2021,Colombia,Antioquia,Medellin_Oeste,Education,590584.0789711105,COP,True,Both,Middle,All,sample_budget_2021.xlsx
+2021,Colombia,Antioquia,Medellin_Oeste,Health,2316164.5185745517,COP,False,Both,All,All,sample_budget_2021.xlsx
+2021,Colombia,Antioquia,Medellin_Oeste,GBV_response,1167011.6161211052,COP,False,Both,All,All,sample_budget_2021.xlsx
+2021,Colombia,Antioquia,Medellin_Oeste,Economic_support,2035712.2222430338,COP,True,Both,All,All,sample_budget_2021.xlsx
+2021,Colombia,Antioquia,Medellin_Oeste,Economic_support,769283.4727329982,COP,True,Women,Middle,All,sample_budget_2021.xlsx
+2021,Colombia,Antioquia,Medellin_Oeste,Governance_participation,2062660.9085614122,COP,True,Both,All,All,sample_budget_2021.xlsx
+2022,Colombia,Antioquia,Medellin_Oeste,Education,3364067.2153682965,COP,False,Both,All,All,sample_budget_2022.xlsx
+2022,Colombia,Antioquia,Medellin_Oeste,Education,589840.8128914483,COP,True,Women,Low,With disability,sample_budget_2022.xlsx
+2022,Colombia,Antioquia,Medellin_Oeste,Health,2546757.231102655,COP,False,Both,All,All,sample_budget_2022.xlsx
+2022,Colombia,Antioquia,Medellin_Oeste,Health,889847.2993876714,COP,True,Both,Low,With disability,sample_budget_2022.xlsx
+2022,Colombia,Antioquia,Medellin_Oeste,GBV_response,3371170.9113793587,COP,False,Both,All,All,sample_budget_2022.xlsx
+2022,Colombia,Antioquia,Medellin_Oeste,GBV_response,1115103.7329946165,COP,True,Women,Low,With disability,sample_budget_2022.xlsx
+2022,Colombia,Antioquia,Medellin_Oeste,Economic_support,1873134.3654280065,COP,False,Both,All,All,sample_budget_2022.xlsx
+2022,Colombia,Antioquia,Medellin_Oeste,Economic_support,820302.9369547401,COP,True,Both,Middle,All,sample_budget_2022.xlsx
+2022,Colombia,Antioquia,Medellin_Oeste,Governance_participation,4067657.2074262514,COP,False,Both,All,All,sample_budget_2022.xlsx
+2022,Colombia,Antioquia,Medellin_Oeste,Governance_participation,1277960.7869325299,COP,True,Women,Middle,All,sample_budget_2022.xlsx
+2023,Colombia,Antioquia,Medellin_Oeste,Education,891975.2748845029,COP,False,Both,All,All,sample_budget_2023.xlsx
+2023,Colombia,Antioquia,Medellin_Oeste,Education,175998.07406496044,COP,True,Both,Low,With disability,sample_budget_2023.xlsx
+2023,Colombia,Antioquia,Medellin_Oeste,Health,2193393.0811343263,COP,False,Both,All,All,sample_budget_2023.xlsx
+2023,Colombia,Antioquia,Medellin_Oeste,GBV_response,1578270.6873593666,COP,True,Both,All,All,sample_budget_2023.xlsx
+2023,Colombia,Antioquia,Medellin_Oeste,GBV_response,659368.9138533556,COP,True,Women,All,All,sample_budget_2023.xlsx
+2023,Colombia,Antioquia,Medellin_Oeste,Economic_support,1982271.6387815846,COP,False,Both,All,All,sample_budget_2023.xlsx
+2023,Colombia,Antioquia,Medellin_Oeste,Economic_support,603643.5491225376,COP,True,Women,All,All,sample_budget_2023.xlsx
+2023,Colombia,Antioquia,Medellin_Oeste,Governance_participation,1523533.28222545,COP,False,Both,All,All,sample_budget_2023.xlsx
+2023,Colombia,Antioquia,Medellin_Oeste,Governance_participation,499422.3664200872,COP,True,Both,Low,With disability,sample_budget_2023.xlsx
+2024,Colombia,Antioquia,Medellin_Oeste,Education,2776727.534359348,COP,True,Both,All,All,sample_budget_2024.xlsx
+2024,Colombia,Antioquia,Medellin_Oeste,Health,2521711.0862447894,COP,True,Both,All,All,sample_budget_2024.xlsx
+2024,Colombia,Antioquia,Medellin_Oeste,GBV_response,3335155.517689032,COP,False,Both,All,All,sample_budget_2024.xlsx
+2024,Colombia,Antioquia,Medellin_Oeste,GBV_response,522037.5267422362,COP,True,Both,Low,All,sample_budget_2024.xlsx
+2024,Colombia,Antioquia,Medellin_Oeste,Economic_support,2781948.9918041495,COP,False,Both,All,All,sample_budget_2024.xlsx
+2024,Colombia,Antioquia,Medellin_Oeste,Economic_support,683728.0098391335,COP,True,Women,Low,All,sample_budget_2024.xlsx
+2024,Colombia,Antioquia,Medellin_Oeste,Governance_participation,2963089.02370711,COP,False,Both,All,All,sample_budget_2024.xlsx
+2020,Colombia,Valle_del_Cauca,Cali_Norte,Education,1912602.320790534,COP,False,Both,All,All,sample_budget_2020.xlsx
+2020,Colombia,Valle_del_Cauca,Cali_Norte,Education,379089.61824600276,COP,True,Women,Middle,With disability,sample_budget_2020.xlsx
+2020,Colombia,Valle_del_Cauca,Cali_Norte,Health,3048711.426130864,COP,False,Both,All,All,sample_budget_2020.xlsx
+2020,Colombia,Valle_del_Cauca,Cali_Norte,Health,1095433.837747477,COP,True,Women,Middle,All,sample_budget_2020.xlsx
+2020,Colombia,Valle_del_Cauca,Cali_Norte,GBV_response,3427106.365673594,COP,False,Both,All,All,sample_budget_2020.xlsx
+2020,Colombia,Valle_del_Cauca,Cali_Norte,GBV_response,1685143.571409168,COP,True,Women,Middle,All,sample_budget_2020.xlsx
+2020,Colombia,Valle_del_Cauca,Cali_Norte,Economic_support,2316413.6777903447,COP,False,Both,All,All,sample_budget_2020.xlsx
+2020,Colombia,Valle_del_Cauca,Cali_Norte,Governance_participation,1729938.1985820283,COP,False,Both,All,All,sample_budget_2020.xlsx
+2021,Colombia,Valle_del_Cauca,Cali_Norte,Education,821581.0998131748,COP,False,Both,All,All,sample_budget_2021.xlsx
+2021,Colombia,Valle_del_Cauca,Cali_Norte,Education,353708.1057974192,COP,True,Both,Low,All,sample_budget_2021.xlsx
+2021,Colombia,Valle_del_Cauca,Cali_Norte,Health,1317284.2578664827,COP,False,Both,All,All,sample_budget_2021.xlsx
+2021,Colombia,Valle_del_Cauca,Cali_Norte,Health,409917.08520765026,COP,True,Both,Low,No disability,sample_budget_2021.xlsx
+2021,Colombia,Valle_del_Cauca,Cali_Norte,GBV_response,1676388.867806626,COP,False,Both,All,All,sample_budget_2021.xlsx
+2021,Colombia,Valle_del_Cauca,Cali_Norte,GBV_response,548559.8232975958,COP,True,Women,Low,All,sample_budget_2021.xlsx
+2021,Colombia,Valle_del_Cauca,Cali_Norte,Economic_support,1381964.8615669215,COP,False,Both,All,All,sample_budget_2021.xlsx
+2021,Colombia,Valle_del_Cauca,Cali_Norte,Governance_participation,1715032.9409668169,COP,True,Both,All,All,sample_budget_2021.xlsx
+2021,Colombia,Valle_del_Cauca,Cali_Norte,Governance_participation,487614.15826699446,COP,True,Both,All,With disability,sample_budget_2021.xlsx
+2022,Colombia,Valle_del_Cauca,Cali_Norte,Education,1054920.2326875352,COP,False,Both,All,All,sample_budget_2022.xlsx
+2022,Colombia,Valle_del_Cauca,Cali_Norte,Health,1508216.7252262381,COP,False,Both,All,All,sample_budget_2022.xlsx
+2022,Colombia,Valle_del_Cauca,Cali_Norte,GBV_response,1102073.6067375015,COP,False,Both,All,All,sample_budget_2022.xlsx
+2022,Colombia,Valle_del_Cauca,Cali_Norte,GBV_response,225664.33891728954,COP,True,Women,Low,With disability,sample_budget_2022.xlsx
+2022,Colombia,Valle_del_Cauca,Cali_Norte,Economic_support,2244916.578342334,COP,False,Both,All,All,sample_budget_2022.xlsx
+2022,Colombia,Valle_del_Cauca,Cali_Norte,Economic_support,637433.4088611436,COP,True,Women,Middle,With disability,sample_budget_2022.xlsx
+2022,Colombia,Valle_del_Cauca,Cali_Norte,Governance_participation,1684145.4967786234,COP,False,Both,All,All,sample_budget_2022.xlsx
+2022,Colombia,Valle_del_Cauca,Cali_Norte,Governance_participation,390385.18515156116,COP,True,Women,Middle,All,sample_budget_2022.xlsx
+2023,Colombia,Valle_del_Cauca,Cali_Norte,Education,1862839.6258057763,COP,False,Both,All,All,sample_budget_2023.xlsx
+2023,Colombia,Valle_del_Cauca,Cali_Norte,Education,401999.4328473444,COP,True,Women,Low,All,sample_budget_2023.xlsx
+2023,Colombia,Valle_del_Cauca,Cali_Norte,Health,1535387.999435257,COP,False,Both,All,All,sample_budget_2023.xlsx
+2023,Colombia,Valle_del_Cauca,Cali_Norte,Health,429153.5092335117,COP,True,Women,Middle,No disability,sample_budget_2023.xlsx
+2023,Colombia,Valle_del_Cauca,Cali_Norte,GBV_response,1060504.8809080394,COP,True,Both,All,All,sample_budget_2023.xlsx
+2023,Colombia,Valle_del_Cauca,Cali_Norte,GBV_response,296783.00527246116,COP,True,Both,Low,With disability,sample_budget_2023.xlsx
+2023,Colombia,Valle_del_Cauca,Cali_Norte,Economic_support,2363023.806128068,COP,True,Both,All,All,sample_budget_2023.xlsx
+2023,Colombia,Valle_del_Cauca,Cali_Norte,Economic_support,723388.4620488017,COP,True,Both,Middle,With disability,sample_budget_2023.xlsx
+2023,Colombia,Valle_del_Cauca,Cali_Norte,Governance_participation,2140279.679677009,COP,False,Both,All,All,sample_budget_2023.xlsx
+2024,Colombia,Valle_del_Cauca,Cali_Norte,Education,2494949.9901152793,COP,True,Both,All,All,sample_budget_2024.xlsx
+2024,Colombia,Valle_del_Cauca,Cali_Norte,Education,1054267.9253485268,COP,True,Women,All,All,sample_budget_2024.xlsx
+2024,Colombia,Valle_del_Cauca,Cali_Norte,Health,1570479.4270933894,COP,False,Both,All,All,sample_budget_2024.xlsx
+2024,Colombia,Valle_del_Cauca,Cali_Norte,Health,454731.87739146827,COP,True,Both,Low,With disability,sample_budget_2024.xlsx
+2024,Colombia,Valle_del_Cauca,Cali_Norte,GBV_response,2101502.230086514,COP,False,Both,All,All,sample_budget_2024.xlsx
+2024,Colombia,Valle_del_Cauca,Cali_Norte,GBV_response,916433.2383787958,COP,True,Both,Low,All,sample_budget_2024.xlsx
+2024,Colombia,Valle_del_Cauca,Cali_Norte,Economic_support,2678376.932499825,COP,False,Both,All,All,sample_budget_2024.xlsx
+2024,Colombia,Valle_del_Cauca,Cali_Norte,Economic_support,696571.6408711515,COP,True,Both,Low,All,sample_budget_2024.xlsx
+2024,Colombia,Valle_del_Cauca,Cali_Norte,Governance_participation,2117729.5524163865,COP,False,Both,All,All,sample_budget_2024.xlsx
+2024,Colombia,Valle_del_Cauca,Cali_Norte,Governance_participation,319051.4468606756,COP,True,Both,Low,With disability,sample_budget_2024.xlsx
+2020,Colombia,Valle_del_Cauca,Cali_Sur,Education,3876367.3052269025,COP,True,Both,All,All,sample_budget_2020.xlsx
+2020,Colombia,Valle_del_Cauca,Cali_Sur,Education,721899.4307894186,COP,True,Women,All,No disability,sample_budget_2020.xlsx
+2020,Colombia,Valle_del_Cauca,Cali_Sur,Health,3232338.552668871,COP,True,Both,All,All,sample_budget_2020.xlsx
+2020,Colombia,Valle_del_Cauca,Cali_Sur,GBV_response,1580189.2408251315,COP,False,Both,All,All,sample_budget_2020.xlsx
+2020,Colombia,Valle_del_Cauca,Cali_Sur,GBV_response,609393.6473717374,COP,True,Both,Middle,With disability,sample_budget_2020.xlsx
+2020,Colombia,Valle_del_Cauca,Cali_Sur,Economic_support,2714501.9630945334,COP,False,Both,All,All,sample_budget_2020.xlsx
+2020,Colombia,Valle_del_Cauca,Cali_Sur,Governance_participation,2677750.815668134,COP,False,Both,All,All,sample_budget_2020.xlsx
+2020,Colombia,Valle_del_Cauca,Cali_Sur,Governance_participation,892900.7064585548,COP,True,Both,Low,With disability,sample_budget_2020.xlsx
+2021,Colombia,Valle_del_Cauca,Cali_Sur,Education,2584578.2815143913,COP,False,Both,All,All,sample_budget_2021.xlsx
+2021,Colombia,Valle_del_Cauca,Cali_Sur,Education,800506.9238953268,COP,True,Both,Middle,No disability,sample_budget_2021.xlsx
+2021,Colombia,Valle_del_Cauca,Cali_Sur,Health,1723898.6205688333,COP,False,Both,All,All,sample_budget_2021.xlsx
+2021,Colombia,Valle_del_Cauca,Cali_Sur,GBV_response,2894539.7091978383,COP,False,Both,All,All,sample_budget_2021.xlsx
+2021,Colombia,Valle_del_Cauca,Cali_Sur,GBV_response,1150004.0177261503,COP,True,Women,Low,No disability,sample_budget_2021.xlsx
+2021,Colombia,Valle_del_Cauca,Cali_Sur,Economic_support,3449318.8896183087,COP,False,Both,All,All,sample_budget_2021.xlsx
+2021,Colombia,Valle_del_Cauca,Cali_Sur,Governance_participation,1249784.0957731593,COP,False,Both,All,All,sample_budget_2021.xlsx
+2022,Colombia,Valle_del_Cauca,Cali_Sur,Education,3857811.7269568113,COP,False,Both,All,All,sample_budget_2022.xlsx
+2022,Colombia,Valle_del_Cauca,Cali_Sur,Health,2445780.3219162873,COP,False,Both,All,All,sample_budget_2022.xlsx
+2022,Colombia,Valle_del_Cauca,Cali_Sur,GBV_response,2748963.703215005,COP,False,Both,All,All,sample_budget_2022.xlsx
+2022,Colombia,Valle_del_Cauca,Cali_Sur,GBV_response,728572.8239666141,COP,True,Women,Middle,All,sample_budget_2022.xlsx
+2022,Colombia,Valle_del_Cauca,Cali_Sur,Economic_support,2088625.356428865,COP,False,Both,All,All,sample_budget_2022.xlsx
+2022,Colombia,Valle_del_Cauca,Cali_Sur,Governance_participation,4240326.627116845,COP,True,Both,All,All,sample_budget_2022.xlsx
+2022,Colombia,Valle_del_Cauca,Cali_Sur,Governance_participation,1723090.2500979255,COP,True,Both,Low,With disability,sample_budget_2022.xlsx
+2023,Colombia,Valle_del_Cauca,Cali_Sur,Education,2927836.5586056267,COP,False,Both,All,All,sample_budget_2023.xlsx
+2023,Colombia,Valle_del_Cauca,Cali_Sur,Health,2038358.1183287941,COP,False,Both,All,All,sample_budget_2023.xlsx
+2023,Colombia,Valle_del_Cauca,Cali_Sur,Health,444097.05858309526,COP,True,Both,All,With disability,sample_budget_2023.xlsx
+2023,Colombia,Valle_del_Cauca,Cali_Sur,GBV_response,1440532.3592791073,COP,False,Both,All,All,sample_budget_2023.xlsx
+2023,Colombia,Valle_del_Cauca,Cali_Sur,GBV_response,270888.1049245356,COP,True,Women,Middle,All,sample_budget_2023.xlsx
+2023,Colombia,Valle_del_Cauca,Cali_Sur,Economic_support,3216195.772356908,COP,True,Both,All,All,sample_budget_2023.xlsx
+2023,Colombia,Valle_del_Cauca,Cali_Sur,Economic_support,901129.4030672319,COP,True,Women,Low,All,sample_budget_2023.xlsx
+2023,Colombia,Valle_del_Cauca,Cali_Sur,Governance_participation,1846133.2449713107,COP,False,Both,All,All,sample_budget_2023.xlsx
+2024,Colombia,Valle_del_Cauca,Cali_Sur,Education,2719905.260056627,COP,False,Both,All,All,sample_budget_2024.xlsx
+2024,Colombia,Valle_del_Cauca,Cali_Sur,Education,455045.32352445245,COP,True,Women,Middle,With disability,sample_budget_2024.xlsx
+2024,Colombia,Valle_del_Cauca,Cali_Sur,Health,2280947.6943591647,COP,True,Both,All,All,sample_budget_2024.xlsx
+2024,Colombia,Valle_del_Cauca,Cali_Sur,GBV_response,2447021.5786158815,COP,False,Both,All,All,sample_budget_2024.xlsx
+2024,Colombia,Valle_del_Cauca,Cali_Sur,GBV_response,591980.2726601592,COP,True,Women,Low,With disability,sample_budget_2024.xlsx
+2024,Colombia,Valle_del_Cauca,Cali_Sur,Economic_support,2840709.4767873874,COP,False,Both,All,All,sample_budget_2024.xlsx
+2024,Colombia,Valle_del_Cauca,Cali_Sur,Economic_support,614218.7705050696,COP,True,Both,Low,All,sample_budget_2024.xlsx
+2024,Colombia,Valle_del_Cauca,Cali_Sur,Governance_participation,3459743.2828239533,COP,True,Both,All,All,sample_budget_2024.xlsx

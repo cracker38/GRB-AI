@@ -1,0 +1,6 @@
+indicator,description,unit,higher_is_better,baseline_gender,baseline_disability_status,baseline_income_level
+School_enrollment,Enrollment rates for eligible learners (%).,%,True,Men,No disability,Middle
+Health_services_access,Access to essential health services (%).,%,True,Men,No disability,Middle
+GBV_services_access,Access to GBV services and support (%).,%,True,Men,No disability,Middle
+Employment_rate,Employment rate (% of working-age population).,%,True,Men,No disability,Middle
+Decision_making_participation,Participation in local decision-making (%).,%,True,Men,No disability,Middle
